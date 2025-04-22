@@ -3,6 +3,7 @@
 layout: home
 
 hero:
+  title: "Hydra Guide"
   text: "Hydra Guide"
   tagline: "Um guia completo de autoajuda para erros comuns dos jogos baixados no Hydra Launcher."
   actions:
@@ -14,7 +15,7 @@ hero:
       link: /onlinefix64.dll.md
 ---
 
-# Sumário com todos os guias e erros presentes neste documento:
+## Sumário com todos os guias e erros presentes neste documento:
 
 ## Guias
 

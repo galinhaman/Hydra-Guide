@@ -48,7 +48,8 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'discord', link: 'https://discord.gg/hydralaunchercommunity' }
+      { icon: 'discord', link: 'https://discord.gg/hydralaunchercommunity' },
+      { icon: 'github', link: 'https://github.com/galinhaman/Hydra-Guide' }
     ],
     search: {
       provider: 'local'
