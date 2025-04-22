@@ -8,7 +8,7 @@ export default defineConfig({
   titleTemplate: 'Hydra Guide',
   description: 'Um guia completo de autoajuda para erros comuns entre os jogos baixados no Hydra Launcher.',
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: '/assets/logo.png' }]
+    ['link', { rel: 'icon', type: 'image/png', href: '/Hydra-Guide/assets/logo.png' }]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
