@@ -3,7 +3,6 @@
 layout: home
 
 hero:
-  title: "Hydra Guide"
   text: "Hydra Guide"
   tagline: "Um guia completo de autoajuda para erros comuns dos jogos baixados no Hydra Launcher."
   actions:
@@ -37,6 +36,7 @@ hero:
 - [O aplicativo não pôde ser inicializado corretamente (0xc0000142). Clique em OK para fechar o aplicativo.](0xc0000142.md)
 - [Something went wrong! The type initializer for 'HarmonyLib.HarmonyShadedState' threw an exception.](harmonylib.md)
 - [Internal error 0x06: System error!](0x06.md)
+- [Steamworks Fix Activation](steamworks-activation.md)
 
 ___
 
