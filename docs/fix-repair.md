@@ -40,6 +40,8 @@ Aqui vai um guia de como fazer isso:
 
 ![Substituir arquivos Fix-Repair](assets/guias/substituir-arquivos-fix-repair.png)
 
+___
+
 Após substituir os arquivos, o `Fix-Repair` foi aplicado.
 
 ::: info O processo descrito nesse guia é basicamente o mesmo processo de aplicar qualquer crack, em qualquer jogo.

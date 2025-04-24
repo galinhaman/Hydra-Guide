@@ -41,5 +41,7 @@ Agora, basta clicar na pasta do jogo, segurar o botão esquerdo do mouse, e move
 
 ![Pasta do jogo sendo movida](/assets/guias/movendo-pasta.png)
 
+___
+
 Após isso, seu jogo estará presente na `raiz` do seu `disco` escolhido. 
 

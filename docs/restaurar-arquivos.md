@@ -32,3 +32,9 @@ Este guia apenas cobre o `Windows Defender`, cada antivírus possui uma interfac
 
 ::: tip Para aparecer os botões `Ações` > `Restaurar`, você precisa selecionar a `Ameaça em quarentena`, e **não** a `Ameaça bloqueada`.
 :::
+
+___
+
+Após isso, a ameaça será restaurada.
+
+![Ameaça restaurada](/assets/guias/ameaça-restaurada.png)

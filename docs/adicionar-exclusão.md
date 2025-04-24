@@ -31,7 +31,13 @@ Este guia apenas cobre o `Windows Defender`, cada antivírus possui uma interfac
 
 ![Adicionar uma exclusão](/assets/guias/adicionando-exclusão.png)
 
-![Exclusão para a pasta](/assets/guias/pasta-exclusão.png)
+![Pasta para exclusão](/assets/guias/pasta-para-exclusão.png)
 
 ::: tip Em jogos do `Online-fix`, é recomendado adicionar uma `exclusão` para a primeira pasta do jogo, que guarda tanto o `Fix Repair`, quanto a pasta com os arquivos do jogo em si.
 :::
+
+___
+
+Após isso, a pasta estará em exclusão.
+
+![Pasta em exclusão](/assets/guias/pasta-em-exclusão.png)
