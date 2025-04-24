@@ -43,7 +43,7 @@ export default defineConfig({
           { text: 'O aplicativo não pôde ser inicializado corretamente (0xc0000142)', link: '/0xc0000142' },
           { text: "'HarmonyLib HarmonyShadedState' threw an exception", link: '/harmonylib' },
           { text: 'Internal error 0x06: System error!', link: '/0x06' },
-          { text: 'Steamworks Fix Activation', link: 'steamworks-activation.md' }
+          { text: 'Steamworks Fix Activation', link: '/steamworks-activation' }
         ]
       }
     ],
