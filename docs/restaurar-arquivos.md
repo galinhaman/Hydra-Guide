@@ -35,6 +35,6 @@ Este guia apenas cobre o `Windows Defender`, cada antivírus possui uma interfac
 
 ___
 
-Após isso, a ameaça será restaurada.
+Após isso, o arquivo estará restaurado.
 
 ![Ameaça restaurada](/assets/guias/ameaça-restaurada.png)

@@ -35,6 +35,7 @@ hero:
 - [O aplicativo não pôde ser inicializado corretamente (0xc0000906). Clique em OK para fechar o aplicativo.](0xc0000906.md)
 - [O aplicativo não pôde ser inicializado corretamente (0xc0000142). Clique em OK para fechar o aplicativo.](0xc0000142.md)
 - [Something went wrong! The type initializer for 'HarmonyLib.HarmonyShadedState' threw an exception.](harmonylib.md)
+- [You are having non-latin characters in your game path, please fix it and restart the game.](non-latin-characters.md)
 - [Internal error 0x06: System error!](0x06.md)
 - [Steamworks Fix Activation](steamworks-activation.md)
 
