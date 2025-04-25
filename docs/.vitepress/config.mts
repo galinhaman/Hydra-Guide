@@ -12,11 +12,6 @@ export default defineConfig({
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/logo.png',
-    nav: [
-      { text: 'Central de ajuda oficial do Hydra', link: 'https://help.hydralauncher.gg/pt/help' }
-    ],
-
     sidebar: [
       {
         text: 'Guias',
@@ -48,6 +43,12 @@ export default defineConfig({
         ]
       }
     ],
+    
+    logo: '/logo.png',
+    nav: [
+      { text: 'Fontes de download', link: '/fontes-de-download' },
+      { text: 'Central de ajuda oficial do Hydra', link: 'https://help.hydralauncher.gg/pt/help' }
+    ],
 
     socialLinks: [
       { icon: 'discord', link: 'https://discord.gg/hydralaunchercommunity' },
@@ -55,6 +56,10 @@ export default defineConfig({
     ],
     search: {
       provider: 'local'
+    },
+
+    footer: {
+      message: 'Feito por galinhaman 🐔❤️'
     }
   },
   markdown: {

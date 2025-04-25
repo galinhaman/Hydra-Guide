@@ -4,7 +4,7 @@ layout: home
 
 hero:
   text: "Hydra Guide"
-  tagline: "Um guia completo de autoajuda para erros comuns dos jogos baixados no Hydra Launcher."
+  tagline: "Um guia completo de autoajuda para jogos baixados no Hydra Launcher."
   actions:
     - theme: brand
       text: Guias essenciais
@@ -12,11 +12,14 @@ hero:
     - theme: brand
       text: Erros comuns
       link: /onlinefix64.dll.md
+    - theme: brand
+      text: Fontes de download
+      link: /fontes-de-download
 ---
 
 ## Sumário com todos os guias e erros presentes neste documento:
 
-## Guias
+### Guias
 
 - [Como restaurar arquivos no Windows Defender ](/restaurar-arquivos.md)
 - [Como adicionar uma exclusão no Windows Defender ](/adicionar-exclusão.md)
@@ -25,7 +28,7 @@ hero:
 - [Como instalar o Microsoft Gaming Services ](/microsoft-gaming-services.md)
 - [Como mover a pasta do jogo para a raiz do seu disco](raiz-disco.md)
 
-## Erros
+### Erros
 
 - [Failed to load OnlineFix64.dll from the list. Error code: 126/225](/onlinefix64.dll.md)
 - [Failed to load Custom.dll from the list. Error code: 126/225](/custom.dll.md)
