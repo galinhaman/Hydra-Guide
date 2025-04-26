@@ -2,6 +2,6 @@
 
 ![EMP.dll](/assets/erros/emp.dll.png)
 
-O arquivo `EMP.dll` ficou em quarentena, você precisa [restaura-lo no Windows Defender](/restaurar-arquivos.md).
+O arquivo `EMP.dll` ficou em quarentena, você precisa [restaura-lo no Windows Defender](/restore-files.md).
 
 Após restaurar o `EMP.dll`, execute o jogo novamente.

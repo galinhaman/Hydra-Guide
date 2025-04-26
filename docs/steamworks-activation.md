@@ -8,7 +8,7 @@ Siga esse passos:
 
 ## Aperte Windows + R, e digite `steam://install/480`:
 
-![Comando Spacewar](/assets/erros/comando-onlinefix.png)
+![Comando Spacewar](/assets/erros/spacewar-comando.png)
 
 ## Instale o `Spacewar`:
 

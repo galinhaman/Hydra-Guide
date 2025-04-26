@@ -4,7 +4,7 @@ O `Fix-Repair` é um arquivo compactado com todos os arquivos do **crack** do jo
 
 ::: warning Não é necessário aplica-lo para jogar o jogo. Você só deve aplica-lo quando seu antívirus deletou algum arquivo do **crack** e você não conseguiu restaura-lo.
 
-Nesse caso, antes você deve [adicionar uma exclusão para a pasta do jogo](/adicionar-exclusão.md), e **somente depois** aplicar o `Fix-Repair`.
+Nesse caso, antes você deve [adicionar uma exclusão para a pasta do jogo](/add-exclusion.md), e **somente depois** aplicar o `Fix-Repair`.
 :::
 
 
@@ -16,29 +16,29 @@ Aqui vai um guia de como fazer isso:
 
 ## Extraia o `Fix-Repair`:
 
-![Extrair Fix-Repair](assets/guias/extrair-fix-repair.png)
+![Extrair Fix-Repair](/assets/guias/extrair-fix-repair.png)
 
 ::: info É preciso ter o [`WinRAR`](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-711br.exe) instalado no seu computador para extrair esse arquivo.
 :::
 
 ## Digite a senha:
 
-![Senha Fix-Repair](assets/guias/senha-fix-repair.png)
+![Senha Fix-Repair](/assets/guias/senha-fix-repair.png)
 
-::: info A senha `online-fix.me` é usada para **todos** os arquivos do `Online-fix`.
+::: info A senha `online-fix.me` é usada para **todos** os arquivos do `Online-Fix`.
 :::
 
 ## Copie todos os arquivos extraídos:
 
-![Copiar arquivos Fix-Repair](assets/guias/copiar-arquivos-fix-repair.png)
+![Copiar arquivos Fix-Repair](/assets/guias/copiar-arquivos-fix-repair.png)
 
 ## Cole dentro da pasta do jogo:
 
-![Colar arquivos Fix-Repair](assets/guias/colar-arquivos-fix-repair.png)
+![Colar arquivos Fix-Repair](/assets/guias/colar-arquivos-fix-repair.png)
 
 ## Substitua os arquivos:
 
-![Substituir arquivos Fix-Repair](assets/guias/substituir-arquivos-fix-repair.png)
+![Substituir arquivos Fix-Repair](/assets/guias/substituir-arquivos-fix-repair.png)
 
 ___
 

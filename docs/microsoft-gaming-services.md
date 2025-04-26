@@ -23,6 +23,10 @@ Após a execução de todos os comandos, uma aba da Microsoft Store irá abrir.
 
 ## Clique em "Instalar" para instalar o `Microsoft Gaming Services`:
 
-![Microsoft Gaming Services](assets/guias/gaming-services.png)
+![Microsoft Gaming Services](/assets/guias/microsoft-gaming-services.png)
+
+___
+
+Após isso, o `Microsoft Gaming Services` estará instalado em seu computador.
 
 
