@@ -82,7 +82,7 @@ Based on all the points discussed in this topic, here are some recommendations o
 
 ### For offline games:
 
-- `ByXatab`, in its portable options;
+- `ByXatab`, in its [portable](download-sources.html#portable) options;
 - `DODI`;
 - `SteamRip`;
 - `Kazumi`.

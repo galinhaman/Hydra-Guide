@@ -81,7 +81,7 @@ Normalmente, todas as fontes distribúem todo o conteúdo adicional que os jogos
 Baseado em todos os pontos discutidos nesse tópico, aqui vão algumas recomendações de fontes para se utilizar ao baixar algum jogo no Hydra Launcher:
 
 ### Para jogos offline: 
-- `ByXatab`, em suas opções portable;
+- `ByXatab`, em suas opções [portable](download-sources.html#portable);
 - `DODI`;
 - `SteamRip`;
 - `Kazumi`.
