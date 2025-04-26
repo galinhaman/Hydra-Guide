@@ -1,99 +1,102 @@
-# Download sources
+# Источники для скачивания
 
-There are several download sources created by the community. All known sources are gathered in the [Hydra Library](https://moyasee.github.io/HydraLibrary/library.html).
+Существуют десятки источников, созданные комьюннити. Все известные источники находятся здесь - [Hydra Library](https://moyasee.github.io/HydraLibrary/library.html).
 
-::: info Only sources with `Trusted` or `Safe to use` status will be covered. It is **highly recommended** that you only use sources with these statuses.
+::: info Дальше будут затронуты источники со статусом `Проверенный` или `Безопасный`. **Крайне рекомендуется** использовать источники только с этими статусами.
+
+**Прошу заметить, если вы находитесь в России, или ваш провайдер блокирует соединение с серверами CloudFlare строго рекомендуется добавить к этим двум вышеперечисленным статусам статус "Русский", так вы сможете избежать использования ВПНа, а так же некоторых других проблем.**
 :::
 
-This topic will present and explain their main differences:
+Здесь будет рассказано об источниках и их особенностях:
 
-## Formats
+## Форматы:
 
-Different sources make their games available in different formats. Here is an explanation of each of them:
+Разные источники делают игры доступными в разных форматах. Обьяснение каждого из них:
 
-### Repack:
+### Репаки:
 
-`Repack` is a term used for a **compressed** version of the game. Games from sources that make `repacks` available will come with an **installer** (setup.exe), which you need to run to install the game.
+Термин `Repack` используется для **сжатой** версии игры. Игры с источников которые делают `репаки` обычно скачиваются вместе с **установщиком** (setup.exe), который вам нужно запустить для установки игры.
 
-`DODI`, `FitGirl`, `GOG`, `KaOsKrew`, `Tiny-Repacks`, `Empress` and `ByXatab` (when **it has** `repack` in the title) are sources that provide `repacks`.
+`DODI`, `FitGirl`, `GOG`, `KaOsKrew`, `Tiny-Repacks`, `Empress` и `ByXatab` (когда **имеют** `репак` в названии) источники которые предоставляют `репаки`.
 
-::: info After installing them, you can delete the installer files to save storage.
+::: info После установки, вы можете удалить установщик для сохранения места на диске.
 :::
 
 ### Pre-installed:
 
-`Pre-installed` is a term used for pre-installed games, only requiring their extraction.
+Термин `Pre-installed` используется для игр которые не требуют установки, от вас лишь требуется только распаковка.
 
-`Online-Fix`, `SteamRip`, `AtopGames`, `Kazumi`, `Shisuy's source` and `Repack-Games` are sources that provide `pre-installed` games.
+`Online-Fix`, `SteamRip`, `AtopGames`, `Kazumi`, `Shisuy's source` и `Repack-Games` это источники которые предоставляют `pre-installed` игры.
 
-::: info You must have [`WinRAR`](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-711br.exe) installed on your computer to extract these files. (If you don't, leave Hydra's automatic extraction checked)
+::: info Вы должны иметь [`WinRAR`](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-711br.exe) установленным на вашем ПК для распаковки игр. (Если у вас его нет, перед скачиванием игры поставьте галочку в Hydra - автоматическая распаковка файлов)
 :::
 
-### Portable:
+### Портативные:
 
-`Portable` is a term used for `pre-installed` games, **without the need for extraction**.
+Термин `Portable` используется для `pre-installed` игр, **без необходимости в распаковке**.
 
-`ByXatab` games (when **they don't have** `repack` in the title), `Kazumi` games downloaded via `torrent`, and some `RuTracker` games, are `portable` games, without the need for extraction.
+Игры `ByXatab` (когда **они не имеют** `repack` в названии), Игры в источнике `Kazumi` скачиваются через `torrent`, так же игры с источника `RuTracker`, это все `portable` игры, без необходимости в распаковке.
 
-## Available languages
+## Доступные Языки
 
-In considerably light games, all sources will support all languages.
+В относительно небольших играх, все источники будут поддерживать любые языки.
 
-For larger games with multiple voiceovers, the sources may or may not support all languages:
+В более крупных играх, с несколькими вариациями озвучки, некоторые источники могут или не могут поддерживать все языки:
 
-- Games from `ByXatab` in its `portable`, `DODI`, `FitGirl`, `GOG` and `Online-Fix` options, for the most part, support **all official languages** of the game.
+- Игры с источников `ByXatab` которые имеют `portable` в названии, `DODI`, `FitGirl`, `GOG` а так же `Online-Fix`, в большинстве своем поддерживают **Все официальные языки** игры.
 
-- Games from `ByXatab` in its `repacks`, `SteamRip`, `AtopGames`, `Shisuy's source`, `Repack-Games`, `KaOsKrew`, `Tiny-Repacks` and `Empress` only support **English and Russian**.
+- Игры с источников `ByXatab` которые имеют `repacks` в названии, `SteamRip`, `AtopGames`, `Shisuy's source`, `Repack-Games`, `KaOsKrew`, `Tiny-Repacks` и `Empress` поддерживают только **Английский и Русский**.
 
-- Games from `Kazumi` and `RuTracker` will vary according to the download option.
+- Набор языков в играх с источников `Kazumi` и `RuTracker` может отличаться в зависимости от варианта загрузки.
 
-## Online
+## Онлайн
 
-Games from the `Online-Fix` source have a crack that enables online multiplayer via Steam, in the vast majority of cases, and via Epic Games/Xbox, in certain cases.
+Игры с источника `Online-Fix` имеют "таблетку" которая позволяет играть онлайн используя Steam, в некоторых случаях присутствуют так же игры которые можно играть используя Epic Games/Xbox.
 
-Games from other sources that have `Coop`, `Multiplayer` or `Online` in the title will come with the `Online-Fix` crack pre-applied, or optional.
+Игры с других источников которые имеют `Coop`, `Multiplayer` или `Online` в названии, скачиваются вместе предустановленной "таблеткой" от `Online-Fix`.
 
-::: info In the case of multiplayer via Steam, it is only possible to play with people who are also playing via `Online-Fix`.
+::: info В случае игры онлайн через Steam, необходимо что-бы другие пользователи с которыми вы хотите играть так же использовали "таблетку" от `Online-Fix`.
 :::
 
-::: tip If the game has multiplayer via LAN (Local Area Network), it is possible to play with anyone using any source (even the original game), as long as everyone is on the same version.
+::: tip Если же в игре доступна игра по LAN'y (Локальная сеть), тогда можно играть с кем угодно, независимо от источника (даже с оригинальной версией игры), если у всех одна и та же версия.
 :::
 
-## Downloaders
+## Скачивания
 
-`Torrent` is the most common form of download among all sources. It works in the peer to peer (p2p) method, and seeds and peers are required for downloads to work. Because of this dependency, its speed tends to be the most inconsistent among all the options available on Hydra. However, it is still possible to achieve high speeds for games with a high number of seeds and peers.
+`Torrent` самый распространенный способ загрузки во всех источниках. Загрузка происходит по технологии peer-to-peer (p2p), и для её работы необходимы сиды и пиры. Из-за этой зависимости скорость загрузки может быть самой нестабильной среди всех доступных на Hydra вариантов. Однако при большом количестве сидов и пиров всё же можно добиться высокой скорости.
+`Gofile`/`Pixeldrain`/`Datanodes`/`Mediafire`/`Qiwi` бесплатные файлообменники для прямой загрузки, без необходимости сидов и пиров. Из-за того, что они безплатные, скорость скачивания не всегда может быть стабильной. Среди них, `Gofile` показывает лучшие и более стабильные результаты.
 
-`Gofile`/`Pixeldrain`/`Datanodes`/`Mediafire`/`Qiwi` are free hosters for direct downloads, without relying on seeds and peers. Because they are free, their speeds may still not be as consistent. Among them, `Gofile` presents better and more consistent results.
+`Real-Debrid`/`Torbox` платные способы загрузки, предоставляют высокую и стабильную скорость скачивания. Из двух вариантов, `Real-Debrid` лучший, но более дорогой. Просмотреть стоимость каждого сервиса [Real-Debrid](https://real-debrid.com/) и [Torbox](https://torbox.app/)
 
-`Real-Debrid`/`Torbox` are paid debrid services, useful for downloading games faster and more consistently. Of both options, `Real-Debrid` is the best, although more expensive. You can check their prices on the official websites of [Real-Debrid](https://real-debrid.com/) and [Torbox](https://torbox.app/)
+`Nimbus` это сервис для скачивания от Hydra, он все еще в бета-тесте а так же доступен только для обладателей подписки Hydra Cloud.
 
-`Nimbus` is Hydra's own debrid service, which is still in beta, occasionally enabled for Hydra Cloud subscribers.
+## DLCs/Дополнительный Контент
 
-## DLCs/Additional Content
+Обычно, все источники предоставляют весь доп. контент который есть у игры. К сожалению, единственный вариант узнать какой доп. контент идет вместе с игрой, это проверить на официальном сайте источника.
 
-Usually, all sources distribute all additional content that games have. Unfortunately, the only way to know exactly what content comes in each option is by checking the official website of each source.
-
-::: info In games from the `GOG` source, the DLCs have their own setups. So, in addition to installing the base game, you need to install the DLCs, if you want.
+::: info В играх с источника `GOG`, каждый доп. контент имеет свой установщик. Поэтому, после устаовки основной игры, вы можете так же установить доп. контент, если вы этого хотите.
 :::
 
-## Which sources should I use?
+## Какие источники я должен использовать?
 
-Based on all the points discussed in this topic, here are some recommendations of sources to use when downloading a game on Hydra Launcher:
+Основываясь на всех обсуждённых в этой теме моментах, вот некоторые рекомендации по выбору источников для загрузки игр через Hydra Launcher:
 
-### For offline games:
+### Для игр оффлайн:
 
-- `ByXatab`, in its portable options;
+- `ByXatab`, игры которые имеют "portable" в названии;
 - `DODI`;
 - `SteamRip`;
 - `Kazumi`.
 
-### For online games:
+### Для игр онлайн:
 - `Online-Fix`;
-- Any other source that has `Coop`, `Multiplayer` or `Online` in the title.
+- Любой другой источник который имеет `Coop`, `Multiplayer` или `Online` в названии игры.
 
-::: tip It is recommended to choose the most updated version among these options.
+### **Прошу заметить, если вы находитесь в России, или ваш провайдер блокирует соединение с серверами CloudFlare строго рекомендуется добавить к этим двум вышеперечисленным статусам статус "Русский", так вы сможете избежать использования ВПНа, а так же некоторых других проблем.**
+
+::: tip Рекомендуется выбирать самую свежую версию игры перед скачиванием.
 :::
 
 ___
 
-Despite all their differences, and your personal preferences, it is recommended to add all sources with `Trusted` or `Safe to use` status. Some games are only available from a specific source.
+Не смотря на все их отличия, а так же ваши предпочтения, рекомендуется добавить все источники со статусом `Trusted` или `Safe to use`. Некоторые игры доступны только в некоторых источниках.
