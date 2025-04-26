@@ -26,9 +26,9 @@ Aqui vai como mover sua pasta para a raiz do seu disco:
 
 Navegue até a pasta do seu jogo, e clique na pasta anterior a ela, para que seja possível move-la:
 
-![Clicar na pasta anterior](/assets/guias/pasta-anterior.png)
+![Clicar na pasta anterior](assets/guides/pasta-anterior.png)
 
-![Pasta do jogo](/assets/guias/pasta-para-mover.png)
+![Pasta do jogo](assets/guides/pasta-para-mover.png)
 
 ::: tip Para jogos do `Online-Fix`, é interessante mover não só a pasta do jogo em si, mas também a pasta que contenha o `Fix-Repair`, para fins de organização.
 :::
@@ -37,9 +37,9 @@ Navegue até a pasta do seu jogo, e clique na pasta anterior a ela, para que sej
 
 Agora, basta clicar na pasta do jogo, segurar o botão esquerdo do mouse, e move-la para a `raiz` do disco `C:`:
 
-![Pasta do jogo selecionada](/assets/guias/pasta-selecionada.png)
+![Pasta do jogo selecionada](assets/guides/pasta-selecionada.png)
 
-![Pasta do jogo sendo movida](/assets/guias/movendo-pasta.png)
+![Pasta do jogo sendo movida](assets/guides/movendo-pasta.png)
 
 ___
 

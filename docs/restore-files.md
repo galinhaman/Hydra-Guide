@@ -9,26 +9,26 @@ Aqui vai um guia de como restaurar algum arquivo no `Windows Defender`:
 
 ## Abra o menu Iniciar e pesquise por `Proteção contra vírus e ameaças`:
 
-![Proteção contra vírus e ameaças](/assets/guias/proteção-contra-vírus-e-ameaças.png)
+![Proteção contra vírus e ameaças](assets/guides/proteção-contra-vírus-e-ameaças.png)
 
 ## Clique em `Histórico de proteção`:
 
-![Histórico de proteção](/assets/guias/histórico-de-proteção.png)
+![Histórico de proteção](assets/guides/histórico-de-proteção.png)
 
-::: warning Caso você utilize outro antivírus, a opção `Histórico de proteção` não irá aparecer nessa aba, mas sim o antivírus que você tem instalado no seu computador. Nesse caso, você deverá abrir ele, e `restaurar` o arquivo dentro dele. 
+::: warning Caso você utilize outro antivírus, a opção `Histórico de proteção` não irá aparecer nesse lugar marcado na imagem, mas sim o antivírus que você tem instalado no seu computador. Nesse caso, você deverá abrir ele, e `restaurar` o arquivo dentro dele. 
 
 Este guia apenas cobre o `Windows Defender`, cada antivírus possui uma interface diferente.
 :::
 
 ## Selecione a `Ameaça em quarentena` em questão:
 
-![Ameaça em quarentena](/assets/guias/ameaça-em-quarentena.png)
+![Ameaça em quarentena](assets/guides/ameaça-em-quarentena.png)
 
-![Ameaça em quarentena selecionada](/assets/guias/ameaça-em-quarentena-selecionada.png)
+![Ameaça em quarentena selecionada](assets/guides/ameaça-em-quarentena-selecionada.png)
 
 ## Clique em `Ações` > `Restaurar`:
 
-![Restaurar](/assets/guias/restaurar.png)
+![Restaurar](assets/guides/restaurar.png)
 
 ::: tip Para aparecer os botões `Ações` > `Restaurar`, você precisa selecionar a `Ameaça em quarentena`, e **não** a `Ameaça bloqueada`.
 :::
@@ -37,4 +37,4 @@ ___
 
 Após isso, o arquivo estará restaurado.
 
-![Ameaça restaurada](/assets/guias/ameaça-restaurada.png)
+![Ameaça restaurada](assets/guides/ameaça-restaurada.png)

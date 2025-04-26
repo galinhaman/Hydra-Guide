@@ -25,13 +25,13 @@ This guide only covers `Windows Defender`, each antivirus has a different interf
 
 ## Scroll down and click on the `Add or remove exclusions` option:
 
-![Exclusions](/ru/assets/guides/exclusions.png)
+![Exclusions](assets/guides/exclusions.png)
 
 ## Click on the `Add an exclusion` > `Folder` button, and select the game folder:
 
-![Add an exclusion](/ru/assets/guides/adding-exclusion.png)
+![Add an exclusion](assets/guides/adding-exclusion.png)
 
-![Folder to exclude](/ru/assets/guides/folder-to-exclude.png)
+![Folder to exclude](assets/guides/folder-to-exclude.png)
 
 ::: tip In `Online-fix` games, it is recommended to add an `exclusion` for the first folder of the game, which holds both `Fix Repair` and the folder with the game files itself.
 :::
@@ -40,4 +40,4 @@ ___
 
 After that, the folder will be excluded.
 
-![Folder excluded](/ru/assets/guides/folder-excluded.png)
+![Folder excluded](assets/guides/folder-excluded.png)

@@ -12,8 +12,8 @@ The option you need to change is in `File Explorer`. Here is an image illustrati
 
 ## Windows 11
 
-![Windows 11](/ru/assets/guides/file-extensions-w11.png)
+![Windows 11](assets/guides/file-extensions-w11.png)
 
 ## Windows 10
 
-![Windows 10](/ru/assets/guides/file-extensions-w10.png)
+![Windows 10](assets/guides/file-extensions-w10.png)

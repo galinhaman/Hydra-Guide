@@ -22,13 +22,13 @@ This guide only covers `Windows Defender`, each antivirus has a different interf
 
 ## Select the `Quarantined` Threat in question:
 
-![Quarantined threat](/ru/assets/guides/quarantined-threat.png)
+![Quarantined threat](assets/guides/quarantined-threat.png)
 
-![Selected quarantined threat](/ru/assets/guides/selected-quarantined-threat.png)
+![Selected quarantined threat](assets/guides/selected-quarantined-threat.png)
 
 ## Click `Actions` > `Restore`:
 
-![Restore](/ru/assets/guides/restore.png)
+![Restore](assets/guides/restore.png)
 
 ::: tip In order for the `Actions` > `Restore` buttons to appear, you need to select the `Quarantined` threat, and **not** the `Blocked` threat.
 :::
@@ -37,4 +37,4 @@ ___
 
 After that, the file will be restored.
 
-![Restored Threat](/ru/assets/guides/restored-threat.png)
+![Restored Threat](assets/guides/restored-threat.png)

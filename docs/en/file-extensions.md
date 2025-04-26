@@ -12,7 +12,7 @@ The option you need to change is in `File Explorer`. Here is an image illustrati
 
 ## Windows 11
 
-![Windows 11](/en/assets/guides/file-extensions-w11.png)
+![Windows 11](assets/guides/file-extensions-w11.png)
 
 ## Windows 10
 

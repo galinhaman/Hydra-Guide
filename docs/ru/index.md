@@ -21,26 +21,26 @@ hero:
 
 ### Guides
 
-- [How to restore files in Windows Defender](/ru/restore-files.md)
-- [How to add an exclusion in Windows Defender](/ru/add-exclusion.md)
-- [How to apply Fix-Repair](/ru/fix-repair.md)
-- [How to enable file extensions in File Explorer](/ru/file-extensions.md)
-- [How to install Microsoft Gaming Services](/ru/microsoft-gaming-services.md)
-- [How to move the game folder to the root of your drive](/ru/root-drive.md)
+- [How to restore files in Windows Defender](restore-files.md)
+- [How to add an exclusion in Windows Defender](add-exclusion.md)
+- [How to apply Fix-Repair](fix-repair.md)
+- [How to enable file extensions in File Explorer](file-extensions.md)
+- [How to install Microsoft Gaming Services](microsoft-gaming-services.md)
+- [How to move the game folder to the root of your drive](root-drive.md)
 
 ### Errors
 
-- [Failed to load OnlineFix64.dll from the list. Error code: 126/225](/ru/onlinefix64.dll.md)
-- [Failed to load Custom.dll from the list. Error code: 126/225](/ru/custom.dll.md)
-- [The code execution cannot continue because EMP.dll was not found. Reinstalling the program may fix this problem.](/ru/emp.dll.md)
-- [The code execution cannot continue because UnityPlayer.dll was not found. Reinstalling the program may fix this problem.](/ru/unityplayer.dll.md)
-- [Failed to load xgameruntime.dll from the list. Error code: 126](/ru/xgameruntime.dll.md)
-- [The application was unable to start correctly (0xc0000906). Click OK to close the application.](/ru/0xc0000906.md)
-- [The application was unable to start correctly (0xc0000142). Click OK to close the application.](/ru/0xc0000142.md)
-- [Something went wrong! The type initializer for 'HarmonyLib.HarmonyShadedState' threw an exception.](/ru/harmonylib.md)
-- [You are having non-latin characters in your game path, please fix it and restart the game.](/ru/non-latin-characters.md)
-- [Internal error 0x06: System error!](/ru/0x06.md)
-- [Steamworks Fix Activation](/ru/steamworks-activation.md)
+- [Failed to load OnlineFix64.dll from the list. Error code: 126/225](onlinefix64.dll.md)
+- [Failed to load Custom.dll from the list. Error code: 126/225](custom.dll.md)
+- [The code execution cannot continue because EMP.dll was not found. Reinstalling the program may fix this problem.](emp.dll.md)
+- [The code execution cannot continue because UnityPlayer.dll was not found. Reinstalling the program may fix this problem.](unityplayer.dll.md)
+- [Failed to load xgameruntime.dll from the list. Error code: 126](xgameruntime.dll.md)
+- [The application was unable to start correctly (0xc0000906). Click OK to close the application.](0xc0000906.md)
+- [The application was unable to start correctly (0xc0000142). Click OK to close the application.](0xc0000142.md)
+- [Something went wrong! The type initializer for 'HarmonyLib.HarmonyShadedState' threw an exception.](harmonylib.md)
+- [You are having non-latin characters in your game path, please fix it and restart the game.](non-latin-characters.md)
+- [Internal error 0x06: System error!](0x06.md)
+- [Steamworks Fix Activation](steamworks-activation.md)
 
 ___
 

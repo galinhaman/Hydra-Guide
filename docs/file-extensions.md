@@ -12,8 +12,8 @@ A opção que você precisa alterar se encontra no `Explorador de Arquivos`. Aqu
 
 ## Windows 11
 
-![Windows 11](/assets/guias/extensões-w11.png)
+![Windows 11](assets/guides/extensões-w11.png)
 
 ## Windows 10
 
-![Windows 10](/assets/guias/extensões-w10.png)
+![Windows 10](assets/guides/extensões-w10.png)

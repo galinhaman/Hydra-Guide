@@ -6,7 +6,7 @@ Here is a guide on how to install it:
 
 ## Open the Start menu and search for `powershell`, and run `Windows PowerShell` **as administrator**:
 
-![Powershell](/ru/assets/guides/powershell.png)
+![Powershell](assets/guides/powershell.png)
 
 ## With `Windows PowerShell` open, run the following commands:
 
@@ -23,7 +23,7 @@ After executing all the commands, a Microsoft Store tab will open.
 
 ## Click "Install" to install `Microsoft Gaming Services`:
 
-![Microsoft Gaming Services](/ru/assets/guides/microsoft-gaming-services.png)
+![Microsoft Gaming Services](assets/guides/microsoft-gaming-services.png)
 
 ___
 

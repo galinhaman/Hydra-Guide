@@ -12,11 +12,11 @@ Siga esses passos para adicionar uma `exclusão`:
 
 ## Abra o menu Iniciar e pesquise por `Proteção contra vírus e ameaças`:
 
-![Proteção contra vírus e ameaças](/assets/guias/proteção-contra-vírus-e-ameaças.png)
+![Proteção contra vírus e ameaças](assets/guides/proteção-contra-vírus-e-ameaças.png)
 
 ## Clique em `Gerenciar Configurações`:
 
-![Gerenciar Configurações](/assets/guias/gerenciar-configurações.png)
+![Gerenciar Configurações](assets/guides/gerenciar-configurações.png)
 
 ::: warning Caso você utilize outro antivírus, a opção `Gerenciar Configurações` não irá aparecer nessa aba, mas sim o antivírus que você tem instalado no seu computador. Nesse caso, você deverá abrir ele, e adicionar uma `exclusão` dentro dele.
 
@@ -25,13 +25,13 @@ Este guia apenas cobre o `Windows Defender`, cada antivírus possui uma interfac
 
 ## Role para baixo clique na opção `Adicionar ou remover exclusões`:
 
-![Exclusões](/assets/guias/exclusões.png)
+![Exclusões](assets/guides/exclusões.png)
 
 ## Clique no botão `Adicionar uma exclusão` > `Pasta`, e selecione a pasta do jogo:
 
-![Adicionar uma exclusão](/assets/guias/adicionando-exclusão.png)
+![Adicionar uma exclusão](assets/guides/adicionando-exclusão.png)
 
-![Pasta para exclusão](/assets/guias/pasta-para-exclusão.png)
+![Pasta para exclusão](assets/guides/pasta-para-exclusão.png)
 
 ::: tip Em jogos do `Online-fix`, é recomendado adicionar uma `exclusão` para a primeira pasta do jogo, que guarda tanto o `Fix Repair`, quanto a pasta com os arquivos do jogo em si.
 :::
@@ -40,4 +40,4 @@ ___
 
 Após isso, a pasta estará em exclusão.
 
-![Pasta em exclusão](/assets/guias/pasta-em-exclusão.png)
+![Pasta em exclusão](assets/guides/pasta-em-exclusão.png)

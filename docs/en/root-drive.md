@@ -26,9 +26,9 @@ Here's how to move your folder to the root of your drive:
 
 Navigate to your game folder, and click on the folder before it, so that you can move it:
 
-![Click on the previous folder](/en/assets/guides/previous-folder.png)
+![Click on the previous folder](assets/guides/previous-folder.png)
 
-![Game folder](/en/assets/guides/folder-to-move.png)
+![Game folder](assets/guides/folder-to-move.png)
 
 ::: tip For `Online-Fix` games, it is interesting to move not only the game folder itself, but also the folder containing `Fix-Repair`, for organization purposes. 
 :::
@@ -37,9 +37,9 @@ Navigate to your game folder, and click on the folder before it, so that you can
 
 Now, just click on the game folder, hold down the left mouse button, and move it to the `root` of your `C:` drive:
 
-![Selected game folder](/en/assets/guides/selected-folder.png)
+![Selected game folder](assets/guides/selected-folder.png)
 
-![Game folder being moved](/en/assets/guides/moving-folder-to-root.png)
+![Game folder being moved](assets/guides/moving-folder-to-root.png)
 
 ___
 

@@ -1,6 +1,6 @@
 # Steamworks Fix Activation
 
-![Steamworks Fix Activation](/en/assets/errors/steamworks-activation.png)
+![Steamworks Fix Activation](assets/errors/steamworks-activation.png)
 
 This means that the Steamworks activation for the `Online-Fix` **crack** to work is not done, in this case, you need to do it manually.
 
@@ -8,11 +8,11 @@ Follow these steps:
 
 ## Press Windows + R, and type `steam://install/480`:
 
-![Spacewar Command](/en/assets/errors/spacewar-command.png)
+![Spacewar Command](assets/errors/spacewar-command.png)
 
 ## Install `Spacewar`:
 
-![Spacewar](/en/assets/errors/spacewar.png)
+![Spacewar](assets/errors/spacewar.png)
 
 ___
 
