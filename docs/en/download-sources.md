@@ -26,7 +26,7 @@ Different sources make their games available in different formats. Here is an ex
 
 `Online-Fix`, `SteamRip`, `AtopGames`, `Kazumi`, `Shisuy's source` and `Repack-Games` are sources that provide `pre-installed` games.
 
-::: info You must have [`WinRAR`](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-711br.exe) installed on your computer to extract these files. (If you don't, leave Hydra's automatic extraction checked)
+::: info You must have [`WinRAR`](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-711br.exe) installed on your computer to extract these files. (If Hydra did not already extract them automatically)
 :::
 
 ### Portable:
@@ -37,9 +37,9 @@ Different sources make their games available in different formats. Here is an ex
 
 ## Available languages
 
-In considerably light games, all sources will support all languages.
+Sizewise, for considerably small games, all sources will support all languages.
 
-For larger games with multiple voiceovers, the sources may or may not support all languages:
+For bigger games, with multiple voiceovers, the sources may or may not support all languages:
 
 - Games from `ByXatab` in its `portable`, `DODI`, `FitGirl`, `GOG` and `Online-Fix` options, for the most part, support **all official languages** of the game.
 
@@ -61,7 +61,7 @@ Games from other sources that have `Coop`, `Multiplayer` or `Online` in the titl
 
 ## Downloaders
 
-`Torrent` is the most common form of download among all sources. It works in the peer to peer (p2p) method, and seeds and peers are required for downloads to work. Because of this dependency, its speed tends to be the most inconsistent among all the options available on Hydra. However, it is still possible to achieve high speeds for games with a high number of seeds and peers.
+`Torrent` is the most common form of download among all sources. It works in the peer to peer (p2p) method, seeds and peers are required for downloads to work. Because of this dependency, its speed tends to be the most inconsistent among all the options available on Hydra. However, it is still possible to achieve high speeds for games with a high number of seeds and peers.
 
 `Gofile`/`Pixeldrain`/`Datanodes`/`Mediafire`/`Qiwi` are free hosters for direct downloads, without relying on seeds and peers. Because they are free, their speeds may still not be as consistent. Among them, `Gofile` presents better and more consistent results.
 

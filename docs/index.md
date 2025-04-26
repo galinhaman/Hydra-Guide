@@ -14,7 +14,7 @@ hero:
       link: onlinefix64.dll.md
     - theme: brand
       text: Fontes de download
-      link: fontes-de-download
+      link: download-sources
 ---
 
 ## Sumário com todos os guias e erros presentes neste documento:

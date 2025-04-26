@@ -48,7 +48,7 @@ export default defineConfig({
         ],
         logo: '/logo.png',
         nav: [
-          { text: 'Fontes de download', link: '/fontes-de-download' },
+          { text: 'Fontes de download', link: '/download-sources' },
           { text: 'Central de Ajuda oficial do Hydra', link: 'https://help.hydralauncher.gg/pt/help' }
         ],
 
