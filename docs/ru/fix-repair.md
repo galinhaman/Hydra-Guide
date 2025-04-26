@@ -1,46 +1,46 @@
-# How to apply Fix-Repair
+# Как использовать папку Fix-Repair
 
-`Fix-Repair` is a compressed file with all the **crack** files of the game, which is found in `Online-Fix` games, **for emergency purposes only**.
+`Fix-Repair` это папка, в которой находится **взломанные** файлы игры, которую можно найти в играх от `Online-Fix`, **Только для экстренных случаев**.
 
-::: warning It is not necessary to apply it to play the game. You should only apply it when your antivirus has deleted some **crack** file and you were unable to restore it.
+::: warning Не обязательно использовать ее для того что бы играть онлайн. Эта папка создана на случай если ваш антивирус удалит **взломанный** файл и вы не сможете его восстановить.
 
-In this case, you must first [add an exclusion to the game folder](add-exclusion.md), and **only then** apply `Fix-Repair`. 
+В таком случае вы должны сначала [добавить папку в исключения антивируса](add-exclusion.md), **и только тогда** использовать файлы с папки `Fix-Repair`. 
 :::
 
-Here's a guide on how to do this:
+Инструкция как это сделать:
 
-## Open the `Fix-Repair` folder:
+## Откройте папку `Fix-Repair`:
 
-![Fix-Repair folder](assets/guides/navigate-fix-repair.png)
+![папка Fix-Repair](assets/guides/navigate-fix-repair.png)
 
-## Extract the `Fix-Repair`:
+## Распакуйте папку `Fix-Repair`:
 
-![Extract Fix-Repair](assets/guides/extract-fix-repair.png)
+![Распаковка папки Fix-Repair](assets/guides/extract-fix-repair.png)
 
-::: info You need to have [`WinRAR`](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-711.exe) installed on your computer to extract this file. :::
+::: info вы должны иметь [`WinRAR`](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-711.exe) установленным на вашем ПК для распаковки. :::
 
-## Enter the password:
+## Введите пароль:
 
-![Fix-Repair password](assets/guides/fix-repair-password.png)
+![Пароль от папки Fix-Repair](assets/guides/fix-repair-password.png)
 
-::: info The password `online-fix.me` is used for **all** `Online-Fix` files.
+::: info Пароль `online-fix.me` используется во **всех** архивах `Online-Fix`.
 :::
 
-## Copy all extracted files:
+## Скопируйте все распакованые файлы:
 
-![Copy Fix-Repair files](assets/guides/copy-fix-repair-files.png)
+![Копирование файлов с папки Fix-Repair](assets/guides/copy-fix-repair-files.png)
 
-## Paste into the game folder:
+## Вставьте их в папку с игрой:
 
 ![Paste Fix-Repair files](assets/guides/paste-fix-repair-files.png)
 
-## Replace files:
+## Замените файлы:
 
 ![Replace Fix-Repair files](assets/guides/replace-fix-repair-files.png)
 
 ___
 
-After replacing the files, the `Fix-Repair` has been applied.
+После замены файлов, можете удалять папку `Fix-Repair`.
 
-::: info The process described in this guide is basically the same as applying any crack, in any game.
+::: info Процесс, описанный в этом руководстве, по сути такой же, как применение любого кряка в любой игре..
 :::
