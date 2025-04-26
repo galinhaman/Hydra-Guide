@@ -158,7 +158,7 @@ export default defineConfig({
         ],
         logo: '/logo.png',
         nav: [
-          { text: 'Источники для скачивания', link: '/en/download-sources' },
+          { text: 'Источники для скачивания', link: '/ru/download-sources' },
           { text: "Hydra's official Help Center", link: 'https://help.hydralauncher.gg/en/help' }
         ],
 
