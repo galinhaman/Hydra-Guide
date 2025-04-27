@@ -17,7 +17,8 @@
 
 ![Распаковка папки Fix-Repair](assets/guides/extract-fix-repair.png)
 
-::: info вы должны иметь [`WinRAR`](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-711.exe) установленным на вашем ПК для распаковки. :::
+::: info вы должны иметь [`WinRAR`](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-711.exe) установленным на вашем ПК для распаковки. 
+:::
 
 ## Введите пароль:
 
