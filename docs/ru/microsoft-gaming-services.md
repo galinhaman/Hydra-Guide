@@ -1,14 +1,14 @@
-# How to install Microsoft Gaming Services
+# Как установить Игровые Сервисы Microsoft?
 
-`Microsoft Gaming Services` is a Microsoft dependency used by some `Online-Fix` games that use Xbox resources for multiplayer to work.
+`Игровые Сервисы Microsoft` Это зависимость Microsoft, используемая в некоторых играх от `Online-Fix` которые задействуют ресурсы Xbox для работы мультиплеера.
 
-Here is a guide on how to install it:
+Инструкция как установить это:
 
-## Open the Start menu and search for `powershell`, and run `Windows PowerShell` **as administrator**:
+## Откройте меню пуск и в поиске введите `powershell`, после, запустите `Windows PowerShell` **с правами администратора**:
 
 ![Powershell](assets/guides/powershell.png)
 
-## With `Windows PowerShell` open, run the following commands:
+## После открытия `Windows PowerShell`, введите следующие комманды.:
 
 ```powershell
 get-appxpackage Microsoft.GamingServices
@@ -16,15 +16,14 @@ get-appxpackage Microsoft.GamingServices | remove-AppxPackage -allusers
 start ms-windows-store://pdp/?productid=9MWPM2CQNLHN
 ```
 
-::: info Run 1 command line at a time. 
+::: info Вводите комманды по одному, сверху вниз. 
 :::
 
-After executing all the commands, a Microsoft Store tab will open.
-
-## Click "Install" to install `Microsoft Gaming Services`:
+После ввода всех комманд, откроется окно с Microsoft Store.
+## Нажмите "Установить" что бы установить `Игровые Сервисы Microsoft`:
 
 ![Microsoft Gaming Services](assets/guides/microsoft-gaming-services.png)
 
 ___
 
-After that, `Microsoft Gaming Services` will be installed on your computer.
+После этого, `Игровые Сервисы Microsoft` будут установлены на ваш компьютер.
