@@ -4,31 +4,31 @@ layout: home
 
 hero:
   text: "Hydra Guide"
-  tagline: "A complete self-help guide for games downloaded on the Hydra Launcher." 
+  tagline: "Полное руководство для самостоятельной помощи при работе с играми, загруженными через Hydra Launcher." 
   actions:
     - theme: brand
-      text: Essential Guides
+      text: Основные руководства
       link: /ru/restore-files
     - theme: brand
-      text: Common Errors
+      text: Типичные ошибки
       link: /ru/onlinefix64.dll.md
     - theme: brand
-      text: Download Sources
+      text: Гайд по Источникам
       link: /ru/download-sources
 ---
 
-## Summary with all guides and errors present in this document:
+## Резюме со всеми руководствами и ошибками, представленными в этом документе:
 
-### Guides
+### Руководства
 
-- [How to restore files in Windows Defender](restore-files.md)
-- [How to add an exclusion in Windows Defender](add-exclusion.md)
-- [How to apply Fix-Repair](fix-repair.md)
+- [Как восстановить файлы в Windows Defender](restore-files.md)
+- [Как добавить папку/файл в исключения Windows Defender](add-exclusion.md)
+- [Как применять папку Fix-Repair](fix-repair.md)
 - [How to enable file extensions in File Explorer](file-extensions.md)
-- [How to install Microsoft Gaming Services](microsoft-gaming-services.md)
+- [Как установить Игровые Сервисы Microsoft](microsoft-gaming-services.md)
 - [How to move the game folder to the root of your drive](root-drive.md)
 
-### Errors
+### Ошибки
 
 - [Failed to load OnlineFix64.dll from the list. Error code: 126/225](onlinefix64.dll.md)
 - [Failed to load Custom.dll from the list. Error code: 126/225](custom.dll.md)
@@ -44,5 +44,5 @@ hero:
 
 ___
 
-::: tip You can use the search bar at the top of the site to quickly search for any guide or error you want.
+::: tip Вы можете использовать строку поиска в верхней части сайта, чтобы быстро найти любое руководство или ошибку.
 :::
