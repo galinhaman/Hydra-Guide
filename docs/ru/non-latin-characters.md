@@ -2,6 +2,6 @@
 
 ![Non-latin characters](assets/errors/non-latin-characters.png)
 
-This error means that some accent or special character is present in the game path. You need to [move the game folder to the root of your drive](root-drive.md).
+Эта ошибка значит, что в пути к исполнительному файлу находятся специальные знаки, либо кирилица. Вам нужно [перенести папку в корневой диск системы](root-drive.md).
 
-After that, run the game again.
+После этого запустите игру снова.
