@@ -1,40 +1,40 @@
-# How to restore files in Windows Defender
+# Как восстановить файлы в Windows Defender
 
-Sometimes, essential files from game **cracks** are quarantined in `Windows Defender`, and you need to restore them in order to open and play the game.
+Иногда, важные файлы игры - **кряки** отправляются в карантин `Windows Defender`, и вам нужно восстановить их, для того что бы запустить игру.
 
-::: info These files are modified files to bypass the game's digital protection (DRM). Because of this, antiviruses can assign a generic virus identification to these files, even though they are not. This is called a `false positive`. 
+::: info Эти файлы, это модифицированные файлы для обхода защиты игры (DRM). Из-за этого, антивирусы могут посчитать эти файлы за вирус, хотя никакого вируса там нет. Это называется `Ложное Срабатывание`. 
 :::
 
-Here is a guide on how to restore a file in `Windows Defender`:
+Инструкция как восстановить файлы с `Windows Defender`:
 
-## Open the Start menu and search for `Virus and threat protection`:
+## Откройте пуск и введите в поиск `Защита от вирусов и угроз`:
 
 ![Virus and threat protection](/ru/assets/guides/virus-and-threat-protection.png)
 
-## Click on `Protection history`:
+## Нажмите на `Журнал Защиты`:
 
 ![Protection history](/ru/assets/guides/protection-history.png)
 
-::: warning If you use another antivirus, the `Protection history` option will not appear in this tab, but rather the antivirus that you have installed on your computer. In this case, you will need to open it and `restore` the file inside it.
+::: warning Если вы используете другой антивирус, опция `Журнал Защиты` на этой вкладке отображаться не будет — вместо неё будет показан установленный на вашем компьютере антивирус. В этом случае вам нужно будет открыть его и `восстановить` файл внутри программы.
 
-This guide only covers `Windows Defender`, each antivirus has a different interface. 
+Эта инструкция, показывает метод восстановления файлов только через `Windows Defender`, каждый антивирус имеет разный интерфейс, поэтому мы не можем создать инструкцию под каждый из них. 
 :::
 
-## Select the `Quarantined` Threat in question:
+## Выберите нужную угрозу в разделе `Карантин`:
 
 ![Quarantined threat](assets/guides/quarantined-threat.png)
 
 ![Selected quarantined threat](assets/guides/selected-quarantined-threat.png)
 
-## Click `Actions` > `Restore`:
+## Нажмите `Действия` > `Восстановить`:
 
 ![Restore](assets/guides/restore.png)
 
-::: tip In order for the `Actions` > `Restore` buttons to appear, you need to select the `Quarantined` threat, and **not** the `Blocked` threat.
+::: tip Чтобы появились кнопки `Actions` > `Restore`, необходимо выбрать угрозу из `Quarantined`, а **не** из списка `Заблокированных`.
 :::
 
 ___
 
-After that, the file will be restored.
+После этого файл будет восстановлен.
 
 ![Restored Threat](assets/guides/restored-threat.png)
