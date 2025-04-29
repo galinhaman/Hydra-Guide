@@ -59,6 +59,9 @@ Jogos de outras fontes, que possuem `Coop`, `Multiplayer` ou `Online` no título
 ::: tip Caso o jogo possua multiplayer via LAN (Rede local), é possível jogar com qualquer pessoa usando qualquer fonte (até mesmo o jogo original), desde que todos estejam na mesma versão.
 :::
 
+::: warning Caso o jogo não esteja atualizado, o online pode não funcionar corretamente.
+:::
+
 ## Downloaders
 
 `Torrent` é a forma mais comum de download dentre todas as fontes. Ele funciona no método peer to peer (p2p), sendo necessários seeds e peers para que os downloads funcionem. Por conta dessa dependência, sua velocidade tende a ser a mais inconsistente dentre todas as opções disponíves do Hydra. Entretanto, ainda sim é possível alcançar altas velocidades para jogos com uma alta quantidade de seeds e peers.
