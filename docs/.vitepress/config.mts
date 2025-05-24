@@ -25,7 +25,8 @@ export default defineConfig({
                 { text: 'Aplicando o Fix-Repair', link: '/fix-repair' },
                 { text: 'Habilitando extensões dos arquivos', link: '/file-extensions' },
                 { text: 'Instalando o Microsoft Gaming Services', link: '/microsoft-gaming-services' },
-                { text: 'Movendo a pasta do jogo para a raiz do seu disco', link: '/root-drive' }
+                { text: 'Movendo a pasta do jogo para a raiz do seu disco', link: '/root-drive' },
+                { text: 'Instalando os componentes recomendados', link: '/common-redistributables' }
               ]
             },
             {
@@ -36,13 +37,24 @@ export default defineConfig({
                 { text: 'Failed to load Custom.dll from the list', link: '/custom.dll.md' },
                 { text: 'EMP.dll não foi encontrado', link: '/emp.dll.md' },
                 { text: 'UnityPlayer.dll não foi encontrado', link: '/unityplayer.dll.md' },
+                { text: 'uplay_r1_loader64.dll não foi encontrado', link: '/uplay_r1_loader64.dll.md' },
                 { text: 'Failed to load xgameruntime.dll from the list', link: '/xgameruntime.dll.md' },
+                { text: 'MSVCR100/110/120/140.dll não foi encontrado', link: '/msvcr1xx.dll.md' },
+                { text: 'XINPUT1_3.dll não foi encontrado', link: '/xinput1_3.dll.md' },
                 { text: 'O aplicativo não pôde ser inicializado corretamente (0xc0000906)', link: '/0xc0000906' },
                 { text: 'O aplicativo não pôde ser inicializado corretamente (0xc0000142)', link: '/0xc0000142' },
+                { text: 'Falha na inicialização do aplicativo devido a configuração lado a lado incorreta.', link: '/side-by-side' },
+                { text: 'Unarc.dll returned an error code: -1/-12', link: '/unarc-1-12' },
+                { text: 'Unarc.dll returned an error code: -6', link: '/unarc-6' },
+                { text: 'Unarc.dll returned an error code: -11', link: '/unarc-11' },
                 { text: "'HarmonyLib HarmonyShadedState' threw an exception", link: '/harmonylib' },
                 { text: 'You are having non-latin characters in your game path', link: '/non-latin-characters' },
                 { text: 'Internal error 0x06: System error!', link: '/0x06' },
-                { text: 'Steamworks Fix Activation', link: '/steamworks-activation' }
+                { text: 'Steam is not launched.', link: '/steam-is-not-launched' },
+                { text: 'RegOpenKeyExW failed. Function result: 2 Error code: 0', link: '/regopenkeyexw' },
+                { text: 'Steamworks Fix Activation', link: '/steamworks-activation' },
+                { text: 'Não é Possível Concluir o Assistente de Extração de Arquivo', link: '/extracting' },
+                { text: 'Tela de instalação presa com uma imagem do jogo e o texto "Dodi Repacks"', link: '/dodi-repacks' }
               ],
           },
         ],

@@ -41,9 +41,9 @@ Em jogos consideravelmente leves, todas as fontes irão suportar todos os idioma
 
 Em relação a jogos maiores, com várias dublagens, as fontes podem suportar ou não todos os idiomas:
 
-- Jogos do `ByXatab` em suas opções `portable`, `DODI`, `FitGirl`, `GOG` e `Online-Fix` em sua grande maioria, possuem suporte para **todos os idiomas oficiais** do jogo.
+- Jogos do `ByXatab` em suas opções [portable](download-sources.html#portable), `DODI`, `FitGirl`, `GOG` e `Online-Fix` em sua grande maioria, possuem suporte para **todos os idiomas oficiais** do jogo.
 
-- Jogos do `ByXatab` em seus `repacks`, `SteamRip`, `AtopGames`, `Shisuy's source`, `Repack-Games`, `KaOsKrew`, `Tiny-Repacks` e `Empress` suportam apenas **inglês e russo**.
+- Jogos do `ByXatab` em seus [repacks](download-sources.html#repack), `SteamRip`, `AtopGames`, `Shisuy's source`, `Repack-Games`, `KaOsKrew`, `Tiny-Repacks` e `Empress` suportam apenas **inglês e russo**.
 
 - Jogos do `Kazumi` e `RuTracker` irão variar de acordo com a opção de download.
 

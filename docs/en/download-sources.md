@@ -41,9 +41,9 @@ Sizewise, for considerably small games, all sources will support all languages.
 
 For bigger games, with multiple voiceovers, the sources may or may not support all languages:
 
-- Games from `ByXatab` in its `portable`, `DODI`, `FitGirl`, `GOG` and `Online-Fix` options, for the most part, support **all official languages** of the game.
+- Games from `ByXatab` in its [portable](download-sources.html#portable) versions, `DODI`, `FitGirl`, `GOG` and `Online-Fix` options, for the most part, support **all official languages** of the game.
 
-- Games from `ByXatab` in its `repacks`, `SteamRip`, `AtopGames`, `Shisuy's source`, `Repack-Games`, `KaOsKrew`, `Tiny-Repacks` and `Empress` only support **English and Russian**.
+- Games from `ByXatab` in its [repacks](download-sources.html#repack), `SteamRip`, `AtopGames`, `Shisuy's source`, `Repack-Games`, `KaOsKrew`, `Tiny-Repacks` and `Empress` only support **English and Russian**.
 
 - Games from `Kazumi` and `RuTracker` will vary according to the download option.
 

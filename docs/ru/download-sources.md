@@ -43,9 +43,9 @@
 
 В более крупных играх, с несколькими вариациями озвучки, некоторые источники могут или не могут поддерживать все языки:
 
-- Игры с источников `ByXatab` которые имеют `portable` в названии, `DODI`, `FitGirl`, `GOG` а так же `Online-Fix`, в большинстве своем поддерживают **Все официальные языки** игры.
+- Игры с источников `ByXatab` которые имеют [portable](download-sources.html#portable) в названии, `DODI`, `FitGirl`, `GOG` а так же `Online-Fix`, в большинстве своем поддерживают **Все официальные языки** игры.
 
-- Игры с источников `ByXatab` которые имеют `repacks` в названии, `SteamRip`, `AtopGames`, `Shisuy's source`, `Repack-Games`, `KaOsKrew`, `Tiny-Repacks` и `Empress` поддерживают только **Английский и Русский**.
+- Игры с источников `ByXatab` которые имеют [repacks](download-sources.html#repack) в названии, `SteamRip`, `AtopGames`, `Shisuy's source`, `Repack-Games`, `KaOsKrew`, `Tiny-Repacks` и `Empress` поддерживают только **Английский и Русский**.
 
 - Набор языков в играх с источников `Kazumi` и `RuTracker` может отличаться в зависимости от варианта загрузки.
 
