@@ -33,10 +33,10 @@ hero:
 
 - [Failed to load OnlineFix64.dll from the list. Error code: 126/225](onlinefix64.dll.md)
 - [Failed to load Custom.dll from the list. Error code: 126/225](custom.dll.md)
+- [Failed to load xgameruntime.dll from the list. Error code: 126](xgameruntime.dll.md)
 - [A execução de código não pode continuar porque EMP.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](emp.dll.md)
 - [A execução de código não pode continuar porque UnityPlayer.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](unityplayer.dll.md)
 - [A execução de código não pode continuar porque uplay_r1_loader64.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](uplay_r1_loader64.dll.md)
-- [Failed to load xgameruntime.dll from the list. Error code: 126](xgameruntime.dll.md)
 - [A execução de código não pode continuar porque MSVCR100/110/120/140.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](msvcr1xx.dll.md)
 - [A execução de código não pode continuar porque XINPUT1_3.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](xinput1_3.dll.md)
 - [O aplicativo não pôde ser inicializado corretamente (0xc0000906). Clique em OK para fechar o aplicativo.](0xc0000906.md)
