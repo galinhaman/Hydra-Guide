@@ -1,4 +1,4 @@
-# Erro do sistema - A execução de código não pode continuar porque uplay_r1_loader64.dll não foi encontrado. Reinstalando o programa para corrigir o problema.
+# A execução de código não pode continuar porque uplay_r1_loader64.dll não foi encontrado. Reinstalando o programa para corrigir o problema.
 
 ![uplay_r1_loader64.dll](assets/errors/uplay_r1_loader64.dll.png)
 

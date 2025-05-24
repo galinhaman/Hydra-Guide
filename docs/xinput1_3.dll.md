@@ -1,4 +1,4 @@
-# Erro do sistema - A execução de código não pode continuar porque XINPUT1_3.dll não foi encontrado. Reinstalando o programa para corrigir o problema.
+# A execução de código não pode continuar porque XINPUT1_3.dll não foi encontrado. Reinstalando o programa para corrigir o problema.
 
 ![XINPUT1_3.dll](assets/errors/xinput1_3.dll.png)
 ![d3dx9.dll](assets/errors/d3dx9.dll.png)

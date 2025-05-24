@@ -7,9 +7,9 @@ Estes erros podem ser causados por falta de uma versão do Visual C++ no seu com
 
 Além disso, é recomendado criar uma pasta para instalar seus jogos, [adicionar uma exclusão](add-exclusion.md) para ela, e seleciona-la no setup:
 
-![Exclusão](assets/errors/unarc-1-exclusão.png)
+![Exclusão](assets/errors/unarc-1-12-exclusão.png)
 
-![Diretório de instalação](assets/errors/unarc-1-diretório-instalação.png)
+![Diretório de instalação](assets/errors/unarc-1-12-diretório-instalação.png)
 
 Após isso, comece a instalação novamente.
 

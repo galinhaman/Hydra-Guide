@@ -35,10 +35,10 @@ hero:
 - [Failed to load Custom.dll from the list. Error code: 126/225](custom.dll.md)
 - [A execução de código não pode continuar porque EMP.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](emp.dll.md)
 - [A execução de código não pode continuar porque UnityPlayer.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](unityplayer.dll.md)
-- [Erro do sistema - A execução de código não pode continuar porque uplay_r1_loader64.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](uplay_r1_loader64.dll.md)
+- [A execução de código não pode continuar porque uplay_r1_loader64.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](uplay_r1_loader64.dll.md)
 - [Failed to load xgameruntime.dll from the list. Error code: 126](xgameruntime.dll.md)
-- [Erro do sistema - A execução de código não pode continuar porque MSVCR100/110/120/140.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](msvcr1xx.dll.md)
-- [Erro do sistema - A execução de código não pode continuar porque XINPUT1_3.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](xinput1_3.dll.md)
+- [A execução de código não pode continuar porque MSVCR100/110/120/140.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](msvcr1xx.dll.md)
+- [A execução de código não pode continuar porque XINPUT1_3.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](xinput1_3.dll.md)
 - [O aplicativo não pôde ser inicializado corretamente (0xc0000906). Clique em OK para fechar o aplicativo.](0xc0000906.md)
 - [O aplicativo não pôde ser inicializado corretamente (0xc0000142). Clique em OK para fechar o aplicativo.](0xc0000142.md)
 - [Falha na inicialização do aplicativo devido a configuração lado a lado incorreta. Consulte o log de eventos do aplicativo ou use a ferramenta de linha de comando sxstrace.exe para obter mais informações.](side-by-side.md)
@@ -52,7 +52,7 @@ hero:
 - [RegOpenKeyExW failed. Function result: 2 Error code: 0](regopenkeyexw.md)
 - [Steamworks Fix Activation](steamworks-activation.md)
 - [Não é Possível Concluir o Assistente de Extração de Arquivo](extracting.md)
-- [Tela de instalação presa com uma imagem do jogo e o texto "Dodi-Repacks"](dodi-repacks.md)
+- [Tela de instalação presa com uma imagem do jogo e o texto "Dodi Repacks"](dodi-repacks.md)
 
 ___
 
