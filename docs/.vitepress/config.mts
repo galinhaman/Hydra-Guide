@@ -26,7 +26,8 @@ export default defineConfig({
                 { text: 'Habilitando extensões dos arquivos', link: '/file-extensions' },
                 { text: 'Instalando o Microsoft Gaming Services', link: '/microsoft-gaming-services' },
                 { text: 'Movendo a pasta do jogo para a raiz do seu disco', link: '/root-drive' },
-                { text: 'Instalando os componentes recomendados', link: '/common-redistributables' }
+                { text: 'Instalando os componentes recomendados', link: '/common-redistributables' },
+                { text: 'Adicionando um jogo na Steam e habilitando o Steam Input', link: '/steam-input' }
               ]
             },
             {
@@ -95,7 +96,8 @@ export default defineConfig({
                 { text: 'Enabling file extensions', link: '/en/file-extensions' },
                 { text: 'Installing Microsoft Gaming Services', link: '/en/microsoft-gaming-services' },
                 { text: 'Moving the game folder to the root of your drive', link: '/en/root-drive' },
-                { text: 'Installing the common redistributables', link: '/en/common-redistributables' }
+                { text: 'Installing the common redistributables', link: '/en/common-redistributables' },
+                { text: 'Adding a game to Steam and enabling Steam Input', link: '/en/steam-input' }
               ]
             },
             {
@@ -164,7 +166,8 @@ export default defineConfig({
                 { text: 'Enabling file extensions', link: '/ru/file-extensions' },
                 { text: 'Installing Microsoft Gaming Services', link: '/ru/microsoft-gaming-services' },
                 { text: 'Moving the game folder to the root of your drive', link: '/ru/root-drive' },
-                { text: 'Installing the common redistributables', link: '/ru/common-redistributables' }
+                { text: 'Installing the common redistributables', link: '/ru/common-redistributables' },
+                { text: 'Adding a game to Steam and enabling Steam Input', link: '/ru/steam-input' }
               ]
             },
             {

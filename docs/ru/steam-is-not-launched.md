@@ -12,9 +12,9 @@ With Steam open and logged in, open the game again.
 
 If the error persists, follow these steps:
 
-## Close Steam completely:
+## Exit Steam:
 
-![Close Steam](assets/errors/close-steam.png)
+![Close Steam](assets/errors/exit-steam.png)
 
 ## Open Steam as an administrator:
 

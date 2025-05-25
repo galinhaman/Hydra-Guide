@@ -28,6 +28,7 @@ hero:
 - [Как установить Игровые Сервисы Microsoft](microsoft-gaming-services.md)
 - [How to move the game folder to the root of your drive](root-drive.md)
 - [How to install the common redistributables](common-redistributables.md)
+- [How to add a game to Steam and enable Steam Input](steam-input.md)
 
 ### Ошибки
 

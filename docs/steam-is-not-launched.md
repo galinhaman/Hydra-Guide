@@ -14,7 +14,7 @@ Caso o erro persista, siga os passos a seguir:
 
 ## Feche a Steam completamente:
 
-![Fechar Steam](assets/errors/fechar-steam.png)
+![Fechar Steam](assets/errors/encerrar-steam.png)
 
 ## Abra a Steam como administrador:
 

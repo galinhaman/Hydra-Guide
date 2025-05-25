@@ -28,6 +28,7 @@ hero:
 - [Como instalar o Microsoft Gaming Services ](microsoft-gaming-services.md)
 - [Como mover a pasta do jogo para a raiz do seu disco](root-drive.md)
 - [Como instalar os componentes recomendados](common-redistributables.md)
+- [Como adicionar um jogo na Steam e habilitar o Steam Input](steam-input.md)
 
 ### Erros
 
