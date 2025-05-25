@@ -40,7 +40,7 @@ Once that's done, your game will be on Steam, now you need to enable `Steam Inpu
 
 ## Right-click on it > `Properties`:
 
-![Non-Steam game properties](assets/guides/non-steam-game-properties.png)
+![Non-Steam game properties](assets/guides/properties-non-steam-game.png)
 
 ## Navigate to the `Controller` tab > Enable `Steam Input`:
 
