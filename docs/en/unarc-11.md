@@ -4,7 +4,7 @@
 
 This error is usually caused by a lack of storage on the selected drive to install the game. In this case, free up more storage, and start installing the game again.
 
-If you have the necessaru storage, you can also [increase the virtual memory of your drive](https://support.esri.com/en-us/knowledge-base/increase-virtual-memory-beyond-the-recommended-maximum--000011346), or select another drive that you may have when installing the game.
+If you have the necessary storage, you can also [increase the virtual memory of your drive](https://support.esri.com/en-us/knowledge-base/increase-virtual-memory-beyond-the-recommended-maximum--000011346), or select another drive that you may have when installing the game.
 
 ::: tip If it is a FitGirl game, activate the RAM memory limiter at the beginning of the installation setup:
 
