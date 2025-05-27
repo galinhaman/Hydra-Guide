@@ -3,7 +3,7 @@
 ![Unarc.dll error code: -1](assets/errors/unarc-1.png)
 ![Unarc.dll error code: -12](assets/errors/unarc-12.png)
 
-Estes erros podem ser causados por falta de uma versão do Visual C++ no seu computador. Portanto, instale o [componentes recomendados](common-redistributables.md).
+Estes erros podem ser causados por falta de uma versão do Visual C++ no seu computador. Portanto, instale os [componentes recomendados](common-redistributables.md).
 
 Além disso, é recomendado criar uma pasta para instalar seus jogos, [adicionar uma exclusão](add-exclusion.md) para ela, e seleciona-la no setup:
 

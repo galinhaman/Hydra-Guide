@@ -2,7 +2,7 @@
 
 ![Unarc.dll error code: -6](assets/errors/unarc-6.png)
 
-Este erro pode ser causado por falta de uma versão do Visual C++ no seu computador. Portanto, instale o [componentes recomendados](common-redistributables.md).
+Este erro pode ser causado por falta de uma versão do Visual C++ no seu computador. Portanto, instale os [componentes recomendados](common-redistributables.md).
 
 Além disso, [mova a pasta do setup para a raiz do seu disco](root-drive.md), e selecione para instalar o jogo na raiz do seu disco também:
 
