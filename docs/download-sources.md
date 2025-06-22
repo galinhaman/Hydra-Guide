@@ -1,6 +1,6 @@
 # Fontes de download
 
-Existem diversas fontes de download criadas pela comunidade. Todas as fontes conhecidas estão reunidas no [Hydra Library](https://moyasee.github.io/HydraLibrary/library.html).
+Existem diversas fontes de download criadas pela comunidade. Todas as fontes conhecidas estão reunidas no [Hydra Library](https://library.hydra.wiki/library).
 
 ::: info Serão apenas abordadas fontes com status `Confiável` ou `Seguro para uso`. É **altamente recomendado** que apenas utilize fontes com esses status.
 :::

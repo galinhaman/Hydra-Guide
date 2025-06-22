@@ -63,7 +63,7 @@ export default defineConfig({
         ],
         logo: '/logo.png',
         nav: [
-          { text: 'Conquistas', link: 'https://youtu.be/WJq7ZmaaGc8?si=PBCN_xVROfEGxueN' },
+          { text: 'Conquistas', link: 'https://youtu.be/WJq7ZmaaGc8' },
           { text: 'Fontes de download', link: '/download-sources' },
           { text: 'Central de Ajuda oficial do Hydra', link: 'https://help.hydralauncher.gg/pt/help' }
         ],

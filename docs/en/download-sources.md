@@ -1,6 +1,6 @@
 # Download sources
 
-There are several download sources created by the community. All known sources are gathered in the [Hydra Library](https://moyasee.github.io/HydraLibrary/library.html).
+There are several download sources created by the community. All known sources are gathered in the [Hydra Library](https://library.hydra.wiki/library).
 
 ::: info Only sources with `Trusted` or `Safe to use` status will be covered. It is **highly recommended** that you only use sources with these statuses.
 :::
