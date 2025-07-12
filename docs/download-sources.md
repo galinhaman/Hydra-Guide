@@ -2,10 +2,15 @@
 
 Existem diversas fontes de download criadas pela comunidade. Todas as fontes conhecidas estão reunidas no [Hydra Library](https://library.hydra.wiki/library).
 
+Este tópico irá apresentar e explicar todas as principais diferenças dessas fontes:
+
 ::: info Serão apenas abordadas fontes com status `Confiável` ou `Seguro para uso`. É **altamente recomendado** que apenas utilize fontes com esses status.
 :::
 
-Este tópico irá apresentar e explicar suas principais diferenças:
+::: info Fontes com `RU` no titulo são espelhos das fontes comuns, porém hospedadas em outro local, para que pessoas que vivem na Rússia possam usa-las. 
+
+Caso não consiga validar alguma fonte, por algum possível bloqueio da sua provedora de internet, é possível tentar usar sua versão com `RU`.
+:::
 
 ## Formatos
 
@@ -15,16 +20,16 @@ Diferentes fontes disponibilizam seus jogos em diferentes formatos. Aqui vai uma
 
 `Repack` é um termo utilizado para uma versão **compactada** do jogo. Jogos de fontes que disponibilizam `repacks` virão com um **instalador** (setup.exe), sendo necessário executa-lo para instalar o jogo.
 
-`DODI`, `FitGirl`, `GOG`, `KaOsKrew`, `Tiny-Repacks`, `Empress` e `ByXatab` (quando **possuir** `repack` no título) são fontes que disponibilizam `repacks`.
+Opções de download do `DODI`, `FitGirl`, `GOG`, `KaOsKrew`, `Tiny-Repacks`, `Empress`, `ByXatab` e `TapochekNet` (quando **possuírem** `repack` no título), `RuTracker` e `Wkeynhk` (quando **não possuírem** `[Portable]` no título) irão ser `repacks`.
 
-::: info Após instala-los, é possível deletar os arquivos do instalador para economizar armazenamento.
+::: info Após instala-los, é possível deletar os arquivos do instalador, para economizar armazenamento.
 :::
 
 ### Pré-instalado:
 
 `Pré-instalado` é um termo utilizado para jogos pré-instalados, somente sendo necessário sua extração.
 
-`Online-Fix`, `SteamRip`, `AtopGames`, `Kazumi`, `Shisuy's source` e `Repack-Games` são fontes que disponibilizam jogos `pré-instalados`.
+Opções de download do `Online-Fix`, `SteamRip`, `AtopGames`, `Shisuy's source` e `Kazumi` (**não baixados** via `torrent`) são jogos `pré-instalados`.
 
 ::: info É preciso ter o [`WinRAR`](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-711br.exe) instalado no seu computador para extrair esses arquivos. (Caso não deixe marcado a extração automática do Hydra)
 :::
@@ -33,7 +38,7 @@ Diferentes fontes disponibilizam seus jogos em diferentes formatos. Aqui vai uma
 
 `Portable` é um termo utilizado para jogos `pré-instalados`, **sem necessidade de extração**.
 
-Jogos do `ByXatab` (quando **não possuem** `repack` no título), jogos do `Kazumi` baixados via `torrent`, e alguns jogos do `RuTracker`, são jogos `portable`, sem a necessidade de extração.
+Opções de download do `ByXatab` e `TapochekNet` (quando **não possuírem** `repack` no título), do `Kazumi` (**baixados** via `torrent`), e do `RuTracker` e `Wkeynhk` (quando **possuírem** `[Portable]` no título) são jogos `portable`, sem a necessidade de extração.
 
 ## Idiomas disponíveis
 
@@ -41,36 +46,41 @@ Em jogos consideravelmente leves, todas as fontes irão suportar todos os idioma
 
 Em relação a jogos maiores, com várias dublagens, as fontes podem suportar ou não todos os idiomas:
 
-- Jogos do `ByXatab` em suas opções [portable](download-sources.html#portable), `DODI`, `FitGirl`, `GOG` e `Online-Fix` em sua grande maioria, possuem suporte para **todos os idiomas oficiais** do jogo.
+- Opções de download do `ByXatab` em suas opções [portable](download-sources.html#portable), `DODI`, `FitGirl`, `GOG` e `Online-Fix` em sua grande maioria, possuem suporte para **todos os idiomas oficiais** do jogo.
 
-- Jogos do `ByXatab` em seus [repacks](download-sources.html#repack), `SteamRip`, `AtopGames`, `Shisuy's source`, `Repack-Games`, `KaOsKrew`, `Tiny-Repacks` e `Empress` suportam apenas **inglês e russo**.
+- Opções de download do `ByXatab` em seus [repacks](download-sources.html#repack), `SteamRip`, `AtopGames`, `Shisuy's source`, `Repack-Games`, `KaOsKrew`, `Tiny-Repacks` e `Empress` suportam apenas **inglês e russo**.
 
-- Jogos do `Kazumi` e `RuTracker` irão variar de acordo com a opção de download.
+- Opções de download do `Kazumi`, `RuTracker`, `Wkeynhk` e `TapochekNet` irão variar de acordo com a opção de download.
+
+::: info `RuTracker`, `Wkeynhk` e `TapochekNet` sempre irão informar no título das opções de download todos os idiomas disponíveis do jogo.
+:::
 
 ## Online
 
-Jogos da fonte `Online-Fix` possuem um crack que possibilita o multiplayer online pela Steam, na grande maioria das vezes, e pela Epic Games/Xbox, em certos casos. 
+Opções de download da fonte `Online-Fix` possuem um crack que possibilita o multiplayer online pela Steam, na grande maioria das vezes, e pela Epic Games/Xbox, em certos casos. 
 
-Jogos de outras fontes, que possuem `Coop`, `Multiplayer` ou `Online` no título, virão com o crack do `Online-Fix` pré-aplicado, ou opcional.
+Opções de download de outras fontes, que possuírem `Coop`, `Multiplayer` ou `Online` no título, virão com o crack do `Online-Fix` pré-aplicado, ou opcional, para que o online também seja possível.
 
-::: info Nos casos de multiplayer pela Steam, somente é possível jogar com pessoas que também estão jogando via `Online-Fix`.
-:::
+Caso não haja nenhuma opção de download que se enquadre nessas definições, significa que não há nenhum crack do `Online-Fix` disponível, para que o online seja possível.
 
-::: tip Caso o jogo possua multiplayer via LAN (Rede local), é possível jogar com qualquer pessoa usando qualquer fonte (até mesmo o jogo original), desde que todos estejam na mesma versão.
-:::
-
-::: warning Caso o jogo não esteja atualizado, o online pode não funcionar corretamente.
-:::
+Algumas informações importantes sobre o online nessas opções de download:
+- É preciso que todos estejam na mesma versão do jogo, para que o online funcione;
+- Nos casos que o online funcione pela Steam (use o `Spacewar`), **somente** será possível jogar com pessoas que também estão jogando com o crack do `Online-Fix`. Nos casos onde o online funcione pela Epic Games/Xbox, é possível jogar com pessoas que possuem o jogo original;
+- Caso o jogo possua multiplayer via LAN (Rede local), é possível jogar com qualquer pessoa, em qualquer fonte (até mesmo o jogo original), sem depender do crack do `Online-Fix`. Basta todos se conectarem na mesma rede local, com algo como o [Radmin](https://www.radmin-vpn.com/), e jogarem via LAN;
+- Caso o jogo não esteja atualizado, o online pode não funcionar corretamente.
 
 ## Downloaders
 
 `Torrent` é a forma mais comum de download dentre todas as fontes. Ele funciona no método peer to peer (p2p), sendo necessários seeds e peers para que os downloads funcionem. Por conta dessa dependência, sua velocidade tende a ser a mais inconsistente dentre todas as opções disponíves do Hydra. Entretanto, ainda sim é possível alcançar altas velocidades para jogos com uma alta quantidade de seeds e peers.
 
-`Gofile`/`Pixeldrain`/`Datanodes`/`Mediafire`/`Qiwi` são hosters gratuitos que funcionam via download direto, sem depender de seeds e peers. Pelo fato de serem gratuitos, suas velocidades ainda sim podem não ser tão consistentes. Dentre todos, `Gofile` apresenta resultados melhores e mais consistentes.
+`Gofile`/`Pixeldrain`/`Datanodes`/`Mediafire`/`Qiwi` são hosters gratuitos que funcionam via download direto, downnloads feitos diretamente em servidores, que não dependem de seeds e peers. Pelo fato de serem gratuitos, suas velocidades ainda sim podem não ser tão altas e consistentes. Dentre todos, `Gofile` apresenta resultados melhores e mais consistentes.
 
 `Real-Debrid`/`Torbox` são serviços debrid, pagos, com sua utilidade em baixar jogos de maneira mais rápida e consistente. Dentre ambas as opções, `Real-Debrid` é a melhor, apesar de mais cara. Você pode conferir seus preços nos sites oficias do [Real-Debrid](https://real-debrid.com/) e [Torbox](https://torbox.app/)
 
 `Nimbus` é o serviço de debrid próprio do Hydra, que ainda está em beta, ocasionalmente habilitado para assinantes do Hydra Cloud.
+
+::: info Todos os `downloaders`, com exceção do `torrent`, serão compactados, visto que funcionam via download direto.
+:::
 
 ## DLCs/Conteúdo adicional
 
@@ -91,7 +101,7 @@ Baseado em todos os pontos discutidos nesse tópico, aqui vão algumas recomenda
 
 ### Para jogos online:
 - `Online-Fix`;
-- Qualquer outra fonte que tenha `Coop`, `Multiplayer` ou `Online` no título.
+- Qualquer outra opção de download que possua `Coop`, `Multiplayer` ou `Online` no título.
 
 ::: tip É recomendado escolher a versão mais atualizada, dentre essas opções.
 :::
