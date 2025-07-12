@@ -2,14 +2,14 @@
 
 Existem diversas fontes de download criadas pela comunidade. Todas as fontes conhecidas estão reunidas no [Hydra Library](https://library.hydra.wiki/library).
 
-Este tópico irá apresentar e explicar todas as principais diferenças dessas fontes:
+Este tópico irá apresentar e explicar todas suas principais diferenças:
 
 ::: info Serão apenas abordadas fontes com status `Confiável` ou `Seguro para uso`. É **altamente recomendado** que apenas utilize fontes com esses status.
 :::
 
 ::: info Fontes com `RU` no titulo são espelhos das fontes comuns, porém hospedadas em outro local, para que pessoas que vivem na Rússia possam usa-las. 
 
-Caso não consiga validar alguma fonte, por algum possível bloqueio da sua provedora de internet, é possível tentar usar sua versão com `RU`.
+Não é necessário usa-las, ao menos que sua provedora de internet esteja bloqueando sua conexão com as fontes comuns.
 :::
 
 ## Formatos
@@ -38,7 +38,7 @@ Opções de download do `Online-Fix`, `SteamRip`, `AtopGames`, `Shisuy's source`
 
 `Portable` é um termo utilizado para jogos `pré-instalados`, **sem necessidade de extração**.
 
-Opções de download do `ByXatab` e `TapochekNet` (quando **não possuírem** `repack` no título), do `Kazumi` (**baixados** via `torrent`), e do `RuTracker` e `Wkeynhk` (quando **possuírem** `[Portable]` no título) são jogos `portable`, sem a necessidade de extração.
+Opções de download do `ByXatab` e `TapochekNet` (quando **não possuírem** `repack` no título), `Kazumi` (**baixados** via `torrent`), e `RuTracker` e `Wkeynhk` (quando **possuírem** `[Portable]` no título) são jogos `portable`, sem a necessidade de extração.
 
 ## Idiomas disponíveis
 
@@ -46,7 +46,7 @@ Em jogos consideravelmente leves, todas as fontes irão suportar todos os idioma
 
 Em relação a jogos maiores, com várias dublagens, as fontes podem suportar ou não todos os idiomas:
 
-- Opções de download do `ByXatab` em suas opções [portable](download-sources.html#portable), `DODI`, `FitGirl`, `GOG` e `Online-Fix` em sua grande maioria, possuem suporte para **todos os idiomas oficiais** do jogo.
+- Opções de download do `ByXatab` em suas versões [portable](download-sources.html#portable), `DODI`, `FitGirl`, `GOG` e `Online-Fix` em sua grande maioria, possuem suporte para **todos os idiomas oficiais** do jogo.
 
 - Opções de download do `ByXatab` em seus [repacks](download-sources.html#repack), `SteamRip`, `AtopGames`, `Shisuy's source`, `Repack-Games`, `KaOsKrew`, `Tiny-Repacks` e `Empress` suportam apenas **inglês e russo**.
 
@@ -57,7 +57,7 @@ Em relação a jogos maiores, com várias dublagens, as fontes podem suportar ou
 
 ## Online
 
-Opções de download da fonte `Online-Fix` possuem um crack que possibilita o multiplayer online pela Steam, na grande maioria das vezes, e pela Epic Games/Xbox, em certos casos. 
+Opções de download do `Online-Fix` possuem um crack que possibilita o multiplayer online pela Steam, na grande maioria das vezes, e pela Epic Games/Xbox, em certos casos. 
 
 Opções de download de outras fontes, que possuírem `Coop`, `Multiplayer` ou `Online` no título, virão com o crack do `Online-Fix` pré-aplicado, ou opcional, para que o online também seja possível.
 
@@ -73,7 +73,7 @@ Algumas informações importantes sobre o online nessas opções de download:
 
 `Torrent` é a forma mais comum de download dentre todas as fontes. Ele funciona no método peer to peer (p2p), sendo necessários seeds e peers para que os downloads funcionem. Por conta dessa dependência, sua velocidade tende a ser a mais inconsistente dentre todas as opções disponíves do Hydra. Entretanto, ainda sim é possível alcançar altas velocidades para jogos com uma alta quantidade de seeds e peers.
 
-`Gofile`/`Pixeldrain`/`Datanodes`/`Mediafire`/`Qiwi` são hosters gratuitos que funcionam via download direto, downnloads feitos diretamente em servidores, que não dependem de seeds e peers. Pelo fato de serem gratuitos, suas velocidades ainda sim podem não ser tão altas e consistentes. Dentre todos, `Gofile` apresenta resultados melhores e mais consistentes.
+`Gofile`/`Pixeldrain`/`Datanodes`/`Mediafire`/`Qiwi` são hosters gratuitos que funcionam via download direto, downloads feitos diretamente em servidores, que não dependem de seeds e peers. Pelo fato de serem gratuitos, suas velocidades ainda sim podem não ser tão altas e consistentes. Dentre todos, `Gofile` apresenta resultados melhores e mais consistentes.
 
 `Real-Debrid`/`Torbox` são serviços debrid, pagos, com sua utilidade em baixar jogos de maneira mais rápida e consistente. Dentre ambas as opções, `Real-Debrid` é a melhor, apesar de mais cara. Você pode conferir seus preços nos sites oficias do [Real-Debrid](https://real-debrid.com/) e [Torbox](https://torbox.app/)
 
@@ -103,9 +103,9 @@ Baseado em todos os pontos discutidos nesse tópico, aqui vão algumas recomenda
 - `Online-Fix`;
 - Qualquer outra opção de download que possua `Coop`, `Multiplayer` ou `Online` no título.
 
-::: tip É recomendado escolher a versão mais atualizada, dentre essas opções.
+::: tip É recomendado escolher a opção de download mais atualizada, dentre essas opções.
 :::
 
 ___
 
-Apesar de todas suas diferenças, e de suas preferências pessoais, é recomendado adicionar todas as fontes com status `Confiável` ou `Seguro para uso`. Alguns jogos somente estão disponíveis em uma fonte em específica.
+Apesar de todas suas diferenças, e de suas preferências pessoais, é recomendado adicionar todas as fontes com status `Confiável` ou `Seguro para uso`. Alguns jogos somente estão disponíveis em alguma fonte em específico.
