@@ -134,6 +134,7 @@ export default defineConfig({
         ],
         logo: '/logo.png',
         nav: [
+          { text: 'Achievements', link: 'https://youtu.be/WJq7ZmaaGc8' },
           { text: 'Download sources', link: '/en/download-sources' },
           { text: "Hydra's official Help Center", link: 'https://help.hydralauncher.gg/en/help' }
         ],
@@ -204,6 +205,7 @@ export default defineConfig({
         ],
         logo: '/logo.png',
         nav: [
+          { text: 'Достижения', link: 'https://youtu.be/WJq7ZmaaGc8' },
           { text: 'Источники для скачивания', link: '/ru/download-sources' },
           { text: "Hydra's official Help Center", link: 'https://help.hydralauncher.gg/en/help' }
         ],

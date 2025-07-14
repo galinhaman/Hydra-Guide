@@ -1,9 +1,9 @@
-# The fix is made by online-fix.me. Please notice that the only trusted sites are online-fix.me and cs.rin.ru. You will get this message only once. Enjoy : )
+# The fix is ​​made by online-fix.me. Please note that the only trusted sites are online-fix.me and cs.rin.ru. You will get this message only once. Enjoy : )
 
 ![online-fix.me](assets/errors/online-fix.me.png)
 
-Essa mensagem não é nenhuma mensagem de erro. Ela é apenas uma mensagem informando que o `crack` do jogo é do `Online-Fix`, e informando que os únicos sites seguros são o `online-fix.me`, site onde é distribuído as correções online e os arquivos dos jogos gratuitamente, e o `cs.rin.ru`, grande fórum russo de pirataria.
+This message is not an error message. It is just a message informing you that the game crack is from `Online-Fix`, and informing you that the only safe sites are `online-fix.me`, a site where online fixes and game files are distributed for free, and `cs.rin.ru`, a large russian piracy forum.
 
-O site `online-fix.me` será aberto no seu navegador, para te indicar qual é o site correto, mas é possível simplesmente fecha-lo.
+The `online-fix.me` site will open in your browser to ensure that you know which site is correct, but you can simply close it.
 
-Apenas clique em `OK`, e espere o jogo abrir.
+Just click `OK`, and wait for the game to open.
