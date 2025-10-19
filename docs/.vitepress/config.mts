@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/Hydra-Guide/',
+  base: '/',
 
   title: 'Hydra Guide',
   titleTemplate: 'Hydra Guide',
