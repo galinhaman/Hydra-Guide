@@ -4,15 +4,17 @@
     <meta charset="UTF-8" />
     <meta name="robots" content="noindex">
     <script>
-      // Preserve the full path, query string, and hash when redirecting
-      const newUrl = "https://docs.galinhaman.com" + location.pathname + location.search + location.hash;
+      // Remove /Hydra-Guide from path and preserve the rest
+      const cleanPath = location.pathname.replace(/^\/Hydra-Guide/, '') || '/';
+      const newUrl = "https://docs.galinhaman.com" + cleanPath + location.search + location.hash;
       location.replace(newUrl);
     </script>
   </head>
   <body>
     <p>Redirecting to <a id="link" href="#">new site</a>...</p>
     <script>
-      document.getElementById("link").href = "https://docs.galinhaman.com" + location.pathname + location.search + location.hash;
+      const cleanPath = location.pathname.replace(/^\/Hydra-Guide/, '') || '/';
+      document.getElementById("link").href = "https://docs.galinhaman.com" + cleanPath + location.search + location.hash;
     </script>
   </body>
 </html>
