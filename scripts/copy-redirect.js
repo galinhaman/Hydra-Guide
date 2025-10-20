@@ -28,9 +28,8 @@ if (process.env.GITHUB_PAGES === "true") {
   <meta name="robots" content="noindex">
   <script>
     (function() {
-      // Remove /Hydra-Guide from path and preserve the rest
-      const cleanPath = location.pathname.replace(/^\\/Hydra-Guide/, '') || '/';
-      const newUrl = "https://docs.galinhaman.com" + cleanPath + location.search + location.hash;
+      // Preserve path, query, and hash (no base removal)
+      const newUrl = "https://docs.galinhaman.com" + location.pathname + location.search + location.hash;
       location.replace(newUrl);
     })();
   </script>
