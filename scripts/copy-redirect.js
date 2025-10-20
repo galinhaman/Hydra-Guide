@@ -27,9 +27,15 @@ if (process.env.GITHUB_PAGES === "true") {
   <meta charset="UTF-8" />
   <meta name="robots" content="noindex">
   <script>
-    // Preserve subpaths and query/hash
-    const newUrl = "https://docs.galinhaman.com" + location.pathname.replace("/Hydra-Guide", "") + location.search + location.hash;
-    location.replace(newUrl);
+    (function() {
+      // Ensure path starts without /Hydra-Guide
+      const path = location.pathname
+        .replace(/^\\/Hydra-Guide(\\/)?/, "/") // remove /Hydra-Guide and optional trailing slash
+        .replace(/\\/index\\.html$/, "/");     // normalize index.html
+
+      const newUrl = "https://docs.galinhaman.com" + path + location.search + location.hash;
+      location.replace(newUrl);
+    })();
   </script>
 </head>
 <body>
@@ -41,8 +47,8 @@ if (process.env.GITHUB_PAGES === "true") {
   // Write 404.html
   writeFileSync(html404, redirectScript);
 
-  console.log("✅ Redirects created for GitHub Pages (index.html + 404.html)");
+  console.log("Redirects created for GitHub Pages (index.html + 404.html)");
 
 } else {
-  console.log("ℹ️ Skipping redirect copy — not GitHub Pages build.");
+  console.log("ℹSkipping redirect copy: not GitHub Pages build.");
 }
