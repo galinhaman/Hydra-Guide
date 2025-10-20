@@ -31,8 +31,37 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
       - name: Setup Pages
         uses: actions/configure-pages@v5
+      - name: Create redirect files
+        run: |
+          # Create index.html redirect
+          cp redirect.html index.html
+          
+          # Create 404.html redirect
+          cat > 404.html << 'EOF'
+          <!DOCTYPE html>
+          <html>
+          <head>
+            <meta charset="UTF-8" />
+            <meta name="robots" content="noindex">
+            <script>
+              (function() {
+                // Preserve the full path, query string, and hash when redirecting
+                const newUrl = "https://docs.galinhaman.com" + location.pathname + location.search + location.hash;
+                location.replace(newUrl);
+              })();
+            </script>
+          </head>
+          <body>
+            <p>Redirecting...</p>
+          </body>
+          </html>
+          EOF
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
