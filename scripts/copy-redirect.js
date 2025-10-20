@@ -28,12 +28,8 @@ if (process.env.GITHUB_PAGES === "true") {
   <meta name="robots" content="noindex">
   <script>
     (function() {
-      // Ensure path starts without /Hydra-Guide
-      const path = location.pathname
-        .replace(/^\\/Hydra-Guide(\\/)?/, "/") // remove /Hydra-Guide and optional trailing slash
-        .replace(/\\/index\\.html$/, "/");     // normalize index.html
-
-      const newUrl = "https://docs.galinhaman.com" + path + location.search + location.hash;
+      // Preserve the full path, query string, and hash when redirecting
+      const newUrl = "https://docs.galinhaman.com" + location.pathname + location.search + location.hash;
       location.replace(newUrl);
     })();
   </script>
