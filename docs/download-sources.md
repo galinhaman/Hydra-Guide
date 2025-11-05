@@ -7,11 +7,6 @@ Este tópico irá apresentar e explicar todas suas principais diferenças:
 ::: info Serão apenas abordadas fontes com status `Confiável` ou `Seguro para uso`. É **altamente recomendado** que apenas utilize fontes com esses status.
 :::
 
-::: info Fontes com `RU` no titulo são espelhos das fontes comuns, porém hospedadas em outro local, para que pessoas que vivem na Rússia possam usa-las. 
-
-Não é necessário usa-las, ao menos que sua provedora de internet esteja bloqueando sua conexão com as fontes comuns.
-:::
-
 ## Formatos
 
 Diferentes fontes disponibilizam seus jogos em diferentes formatos. Aqui vai uma explicação de cada um deles:

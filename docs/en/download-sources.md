@@ -7,11 +7,6 @@ This topic will present and explain their main differences:
 ::: info Only sources with `Trusted` or `Safe to use` status will be covered. It is **highly recommended** that you only use sources with these statuses.
 :::
 
-::: info Sources with `RU` in the title are mirrors of the regular sources, but hosted elsewhere so that people living in Russia can use them.
-
-You don't need to use them unless your internet provider is blocking your connection to the regular sources.
-:::
-
 ## Formats
 
 Different sources make their games available in different formats. Here is an explanation of each of them:
