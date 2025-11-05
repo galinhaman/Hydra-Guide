@@ -20,7 +20,7 @@ Diferentes fontes disponibilizam seus jogos em diferentes formatos. Aqui vai uma
 
 `Repack` é um termo utilizado para uma versão **compactada** do jogo. Jogos de fontes que disponibilizam `repacks` virão com um **instalador** (setup.exe), sendo necessário executa-lo para instalar o jogo.
 
-Opções de download do `DODI`, `FitGirl`, `GOG`, `KaOsKrew`, `Tiny-Repacks`, `Empress`, `ByXatab` e `TapochekNet` (quando **possuírem** `repack` no título), `RuTracker` e `Wkeynhk` (quando **não possuírem** `[Portable]` no título) irão ser `repacks`.
+Opções de download do `DODI`, `FitGirl`, `GOG`, `KaOsKrew`, `Tiny-Repacks`, `Empress`, `ByXatab` (quando **possuir** `repack` ou `GOG` no título), `RuTracker` e `Wkeynhk` (quando **não possuírem** `[Portable]` no título) irão ser `repacks`.
 
 ::: info Após instala-los, é possível deletar os arquivos do instalador, para economizar armazenamento.
 :::
@@ -29,7 +29,7 @@ Opções de download do `DODI`, `FitGirl`, `GOG`, `KaOsKrew`, `Tiny-Repacks`, `E
 
 `Pré-instalado` é um termo utilizado para jogos pré-instalados, somente sendo necessário sua extração.
 
-Opções de download do `Online-Fix`, `SteamRip`, `AtopGames`, `Shisuy's source` e `Kazumi` (**não baixados** via `torrent`) são jogos `pré-instalados`.
+Opções de download do `Online-Fix`, `SteamRip`, `AtopGames`, `Shisuy's source`, `SteamGG` e `Kazumi` (**não baixados** via `torrent`) são jogos `pré-instalados`.
 
 ::: info É preciso ter o [`WinRAR`](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-711br.exe) instalado no seu computador para extrair esses arquivos. (Caso não deixe marcado a extração automática do Hydra)
 :::
@@ -38,7 +38,7 @@ Opções de download do `Online-Fix`, `SteamRip`, `AtopGames`, `Shisuy's source`
 
 `Portable` é um termo utilizado para jogos `pré-instalados`, **sem necessidade de extração**.
 
-Opções de download do `ByXatab` e `TapochekNet` (quando **não possuírem** `repack` no título), `Kazumi` (**baixados** via `torrent`), e `RuTracker` e `Wkeynhk` (quando **possuírem** `[Portable]` no título) são jogos `portable`, sem a necessidade de extração.
+Opções de download do `ByXatab` (quando **não possuir** `repack` ou `GOG` no título), `Kazumi` (**baixados** via `torrent`), e `RuTracker` e `Wkeynhk` (quando **possuírem** `[Portable]` no título) são jogos `portable`, sem a necessidade de extração.
 
 ## Idiomas disponíveis
 
@@ -48,16 +48,18 @@ Em relação a jogos maiores, com várias dublagens, as fontes podem suportar ou
 
 - Opções de download do `ByXatab` em suas versões [portable](download-sources.html#portable), `DODI`, `FitGirl`, `GOG` e `Online-Fix` em sua grande maioria, possuem suporte para **todos os idiomas oficiais** do jogo.
 
-- Opções de download do `ByXatab` em seus [repacks](download-sources.html#repack), `SteamRip`, `AtopGames`, `Shisuy's source`, `Repack-Games`, `KaOsKrew`, `Tiny-Repacks` e `Empress` suportam apenas **inglês e russo**.
+- Opções de download do `ByXatab` em seus [repacks](download-sources.html#repack), `SteamRip`, `AtopGames`, `Shisuy's source`, `SteamGG`, `KaOsKrew`, `Tiny-Repacks` e `Empress` suportam apenas **inglês e/ou russo**.
 
-- Opções de download do `Kazumi`, `RuTracker`, `Wkeynhk` e `TapochekNet` irão variar de acordo com a opção de download.
+- Opções de download do `Kazumi`, `RuTracker` e `Wkeynhk` irão variar de acordo com a opção de download.
 
-::: info `RuTracker`, `Wkeynhk` e `TapochekNet` sempre irão informar no título das opções de download todos os idiomas disponíveis do jogo.
+::: info `RuTracker` e `Wkeynhk` sempre irão informar no título das opções de download todos os idiomas disponíveis do jogo.
 :::
 
 ## Online
 
 Opções de download do `Online-Fix` possuem um crack que possibilita o multiplayer online pela Steam, na grande maioria das vezes, e pela Epic Games/Xbox, em certos casos. 
+
+Opções de download do `Wkeynhk`, que possuírem `Pioneer` no título, também virão com um crack que disponibiliza multijogador, similar ao `Online-Fix`.
 
 Opções de download de outras fontes, que possuírem `Coop`, `Multiplayer` ou `Online` no título, virão com o crack do `Online-Fix` pré-aplicado, ou opcional, para que o online também seja possível.
 

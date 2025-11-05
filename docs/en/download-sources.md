@@ -20,7 +20,7 @@ Different sources make their games available in different formats. Here is an ex
 
 `Repack` is a term used for a **compressed** version of the game. Games from sources that make `repacks` available will come with an **installer** (setup.exe), which you need to run to install the game.
 
-Download options of `DODI`, `FitGirl`, `GOG`, `KaOsKrew`, `Tiny-Repacks`, `Empress`, `ByXatab` and `TapochekNet` (when **they have** `repack` in the title), `RuTracker` and `Wkeynhk` (when they **do not have** `[Portable]` in the title) will be `repacks`.
+Download options of `DODI`, `FitGirl`, `GOG`, `KaOsKrew`, `Tiny-Repacks`, `Empress`, `ByXatab` (when **there is** `repack` or `GOG` in the title), `RuTracker` and `Wkeynhk` (when they **do not have** `[Portable]` in the title) will be `repacks`.
 
 ::: info After installing them, you can delete the installer files, to save storage.
 :::
@@ -29,7 +29,7 @@ Download options of `DODI`, `FitGirl`, `GOG`, `KaOsKrew`, `Tiny-Repacks`, `Empre
 
 `Pre-installed` is a term used for pre-installed games, only requiring their extraction.
 
-Download options of `Online-Fix`, `SteamRip`, `AtopGames`, `Shisuy's source` and `Kazumi` (**not downloaded** through `torrent`) are `pre-installed` games.
+Download options of `Online-Fix`, `SteamRip`, `AtopGames`, `Shisuy's source`, `SteamGG` and `Kazumi` (**not downloaded** through `torrent`) are `pre-installed` games.
 
 ::: info You must have [`WinRAR`](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-711br.exe) installed on your computer to extract these files. (If Hydra did not already extract them automatically)
 :::
@@ -38,7 +38,7 @@ Download options of `Online-Fix`, `SteamRip`, `AtopGames`, `Shisuy's source` and
 
 `Portable` is a term used for `pre-installed` games, **without the need for extraction**.
 
-Download options of `ByXatab` and `TapochekNet` (when **they do not have** `repack` in the title), `Kazumi` (**downloaded** via `torrent`), and `RuTracker` and `Wkeynhk` (when they **have** `[Portable]` in the title) are `portable` games, without the need for extraction.
+Download options of `ByXatab` (when **there is not** `repack` or `GOG` in the title), `Kazumi` (**downloaded** via `torrent`), and `RuTracker` and `Wkeynhk` (when **there is** `[Portable]` in the title) are `portable` games, without the need for extraction.
 
 ## Available languages
 
@@ -48,16 +48,18 @@ For bigger games, with multiple voiceovers, the sources may or may not support a
 
 - Download options of `ByXatab` in its [portable](download-sources.html#portable) versions, `DODI`, `FitGirl`, `GOG` and `Online-Fix` options, for the most part, support **all official languages** of the game.
 
-- Download options of `ByXatab` in its [repacks](download-sources.html#repack), `SteamRip`, `AtopGames`, `Shisuy's source`, `Repack-Games`, `KaOsKrew`, `Tiny-Repacks` and `Empress` only support **English and Russian**.
+- Download options of `ByXatab` in its [repacks](download-sources.html#repack), `SteamRip`, `AtopGames`, `Shisuy's source`, `SteamGG`, `KaOsKrew`, `Tiny-Repacks` and `Empress` only support **English and/or Russian**.
 
-- Download options of `Kazumi`, `RuTracker`, `Wkeynhk`, and `TapochekNet` will vary depending on the download option.
+- Download options of `Kazumi`, `RuTracker` and `Wkeynhk` will vary depending on the download option.
 
-::: info `RuTracker`, `Wkeynhk`, and `TapochekNet` will always display all available languages in the download option title.
+::: info `RuTracker` and `Wkeynhk` will always display all available languages in the download option title.
 :::
 
 ## Online
 
 Download options of `Online-Fix` include a crack that enables online multiplayer via Steam, in most cases, and via Epic Games/Xbox, in certain cases.
+
+Download options of `Wkeynhk`, that have `Pioneer` in the title, will also come with a crack that enables multiplayer, similar to `Online-Fix`.
 
 Download options from other sources, when they have `Coop`, `Multiplayer`, or `Online` in the title, will come with the `Online-Fix` crack pre-applied, or optionally, to enable online play.
 
