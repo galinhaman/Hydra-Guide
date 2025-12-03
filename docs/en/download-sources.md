@@ -54,7 +54,7 @@ For bigger games, with multiple voiceovers, the sources may or may not support a
 
 Download options of `Online-Fix` include a crack that enables online multiplayer via Steam, in most cases, and via Epic Games/Xbox, in certain cases.
 
-Download options of `Wkeynhk`, that have `Pioneer` or `Canek77` in the title, will also come with a crack that enables multiplayer, similar to `Online-Fix`, or from `Online-Fix`, respectively.
+Download options of `Wkeynhk`, that have `Pioneer` or `Canek77` in the title, will also come with a crack that enables multiplayer, similar to `Online-Fix`.
 
 Download options from other sources, when they have `Coop`, `Multiplayer`, or `Online` in the title, will come with the `Online-Fix` crack pre-applied, or optionally, to enable online play.
 
