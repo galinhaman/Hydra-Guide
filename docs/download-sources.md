@@ -54,7 +54,7 @@ Em relação a jogos maiores, com várias dublagens, as fontes podem suportar ou
 
 Opções de download do `Online-Fix` possuem um crack que possibilita o multiplayer online pela Steam, na grande maioria das vezes, e pela Epic Games/Xbox, em certos casos. 
 
-Opções de download do `Wkeynhk`, que possuírem `Pioneer` no título, também virão com um crack que disponibiliza multijogador, similar ao `Online-Fix`.
+Opções de download do `Wkeynhk`, que possuírem `Pioneer` ou `Canek77` no título, também virão com um crack que disponibiliza multijogador, similar ao `Online-Fix`, ou do `Online-Fix`, respectivamente.
 
 Opções de download de outras fontes, que possuírem `Coop`, `Multiplayer` ou `Online` no título, virão com o crack do `Online-Fix` pré-aplicado, ou opcional, para que o online também seja possível.
 
