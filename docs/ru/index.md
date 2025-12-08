@@ -23,6 +23,7 @@ hero:
 
 - [Как восстановить файлы в Windows Defender](restore-files.md)
 - [Как добавить папку/файл в исключения Windows Defender](add-exclusion.md)
+- [How to disable Smart App Controll](smart-app-control.md)
 - [Как применять папку Fix-Repair](fix-repair.md)
 - [How to enable file extensions in File Explorer](file-extensions.md)
 - [Как установить Игровые Сервисы Microsoft](microsoft-gaming-services.md)
@@ -35,6 +36,8 @@ hero:
 - [Failed to load OnlineFix64.dll from the list. Error code: 126/225](onlinefix64.dll.md)
 - [Failed to load Custom.dll from the list. Error code: 126/225](custom.dll.md)
 - [Failed to load xgameruntime.dll from the list. Error code: 126](xgameruntime.dll.md)
+- [Error code: 4556](4556.md)
+- [Error status 0xc0e90007](0xc0e90007.md)
 - [The code execution cannot continue because EMP.dll was not found. Reinstalling the program may fix this problem.](emp.dll.md)
 - [The code execution cannot continue because UnityPlayer.dll was not found. Reinstalling the program may fix this problem.](unityplayer.dll.md)
 = [The code execution cannot proceed because uplay_r1_loader64.dll was not found. Reinstalling the program may fix this problem.](uplay_r1_loader64.dll.md)

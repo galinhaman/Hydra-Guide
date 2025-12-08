@@ -21,8 +21,9 @@ hero:
 
 ### Guias
 
-- [Como restaurar arquivos no Windows Defender ](restore-files.md)
-- [Como adicionar uma exclusão no Windows Defender ](add-exclusion.md)
+- [Como restaurar arquivos no Windows Defender](restore-files.md)
+- [Como adicionar uma exclusão no Windows Defender](add-exclusion.md)
+- [Como desativar o Controle Inteligente de Aplicativos](smart-app-control.md)
 - [Como aplicar o Fix-Repair](fix-repair.md)
 - [Como habilitar as extensões dos arquivos no Explorador de Arquivos](file-extensions.md)
 - [Como instalar o Microsoft Gaming Services ](microsoft-gaming-services.md)
@@ -35,6 +36,8 @@ hero:
 - [Failed to load OnlineFix64.dll from the list. Error code: 126/225](onlinefix64.dll.md)
 - [Failed to load Custom.dll from the list. Error code: 126/225](custom.dll.md)
 - [Failed to load xgameruntime.dll from the list. Error code: 126](xgameruntime.dll.md)
+- [Error code: 4556](4556.md)
+- [Error status 0xc0e90007](0xc0e90007.md)
 - [A execução de código não pode continuar porque EMP.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](emp.dll.md)
 - [A execução de código não pode continuar porque UnityPlayer.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](unityplayer.dll.md)
 - [A execução de código não pode continuar porque uplay_r1_loader64.dll não foi encontrado. Reinstalando o programa para corrigir o problema.](uplay_r1_loader64.dll.md)
