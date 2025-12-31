@@ -94,8 +94,9 @@ Based on all the points discussed in this topic, here are some recommendations o
 
 - `ByXatab`, in its [portable](download-sources.html#portable) options;
 - `DODI`;
+- `Kazumi`;
 - `SteamRip`;
-- `Kazumi`.
+- `SteamGG`.
 
 ### For online games:
 - `Online-Fix`;

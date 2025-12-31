@@ -93,8 +93,9 @@ Baseado em todos os pontos discutidos nesse tópico, aqui vão algumas recomenda
 ### Para jogos offline: 
 - `ByXatab`, em suas opções [portable](download-sources.html#portable);
 - `DODI`;
+- `Kazumi`;
 - `SteamRip`;
-- `Kazumi`.
+- `SteamGG`.
 
 ### Para jogos online:
 - `Online-Fix`;

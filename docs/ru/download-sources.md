@@ -101,8 +101,9 @@
 
 - `ByXatab`, игры которые имеют [portable](download-sources.html#portable) в названии;
 - `DODI`;
+- `Kazumi`;
 - `SteamRip`;
-- `Kazumi`.
+- `SteamGG`.
 
 ### Для игр онлайн:
 
