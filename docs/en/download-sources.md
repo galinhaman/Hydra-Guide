@@ -1,6 +1,6 @@
 # Download sources
 
-There are several download sources created by the community. All known sources are gathered in the [Hydra Library](https://library.hydra.wiki/library).
+There are several download sources created by the community. All known sources are gathered in the [Hydra Library](https://library.hydra.wiki/sources).
 
 This topic will present and explain their main differences:
 
