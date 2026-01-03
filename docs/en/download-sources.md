@@ -70,7 +70,7 @@ Some important information about online functionalities in these download option
 
 `Torrent` is the most common form of download among all sources. It works in the peer to peer (p2p) method, seeds and peers are required for downloads to work. Because of this dependency, its speed tends to be the most inconsistent among all the options available on Hydra. However, it is still possible to achieve high speeds for games with a high number of seeds and peers.
 
-`Gofile`/`Pixeldrain`/`Datanodes`/`Mediafire`/`Qiwi` are free hosters that function with direct downloads, downloads made directly from servers without relying on seeds and peers. Because they are free, their speeds may still not be as fast and consistent. Among them, `Gofile` presents better and more consistent results.
+`Gofile`/`Pixeldrain`/`Datanodes`/`Mediafire`/`Vikingfile`/`Buzzheavier`/`Fuckingfast` are free hosters that function with direct downloads, downloads made directly from servers without relying on seeds and peers. Because they are free, their speeds may still not be as fast and consistent. Among them, `Gofile`, `Vikingfile` and `Buzzheavier` present better and more consistent results.
 
 `Real-Debrid`/`Torbox` are paid debrid services, useful for downloading games faster and more consistently. Of both options, `Real-Debrid` is the best, although more expensive. You can check their prices on the official websites of [Real-Debrid](https://real-debrid.com/) and [Torbox](https://torbox.app/)
 
