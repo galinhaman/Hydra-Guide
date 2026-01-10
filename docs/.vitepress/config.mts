@@ -38,13 +38,14 @@ export default defineConfig({
                 { text: 'Failed to load OnlineFix64.dll from the list', link: '/onlinefix64.dll.md' },
                 { text: 'Failed to load Custom.dll from the list', link: '/custom.dll.md' },
                 { text: 'Failed to load xgameruntime.dll from the list', link: '/xgameruntime.dll.md' },
-                { text: 'Error code: 4556', link: '/4556.md' },
-                { text: 'Error status 0xc0e9007', link: '/0xc0e90007.md' },
+                { text: 'Error code: 4556/4557', link: '/4556.md' },
+                { text: 'Error status 0xc0e9007/0xc0e9008', link: '/0xc0e90007.md' },
                 { text: 'EMP.dll não foi encontrado', link: '/emp.dll.md' },
                 { text: 'UnityPlayer.dll não foi encontrado', link: '/unityplayer.dll.md' },
                 { text: 'uplay_r1_loader64.dll não foi encontrado', link: '/uplay_r1_loader64.dll.md' },
                 { text: 'MSVCR100/110/120/140.dll não foi encontrado', link: '/msvcr1xx.dll.md' },
                 { text: 'XINPUT1_3.dll não foi encontrado', link: '/xinput1_3.dll.md' },
+                { text: 'The EOS SDK could not be found. Please reinstall the application', link: '/eos-sdk.md' },
                 { text: 'O aplicativo não pôde ser inicializado corretamente (0xc0000906)', link: '/0xc0000906' },
                 { text: 'O aplicativo não pôde ser inicializado corretamente (0xc0000142)', link: '/0xc0000142' },
                 { text: 'Falha na inicialização do aplicativo devido a configuração lado a lado incorreta.', link: '/side-by-side' },
@@ -68,7 +69,7 @@ export default defineConfig({
         nav: [
           { text: 'Conquistas', link: 'https://youtu.be/WJq7ZmaaGc8' },
           { text: 'Fontes de download', link: '/download-sources' },
-          { text: 'Central de Ajuda oficial do Hydra', link: 'https://help.hydralauncher.gg/pt/help' }
+          { text: 'Central de Ajuda oficial do Hydra', link: 'https://hydra.workwonders.app/knowledge' }
         ],
 
         socialLinks: [
@@ -112,13 +113,14 @@ export default defineConfig({
                 { text: 'Failed to load OnlineFix64.dll from the list', link: '/en/onlinefix64.dll.md' },
                 { text: 'Failed to load Custom.dll from the list', link: '/en/custom.dll.md' },
                 { text: 'Failed to load xgameruntime.dll from the list', link: '/en/xgameruntime.dll.md' },
-                { text: 'Error code: 4556', link: '/en/4556.md' },
-                { text: 'Error status 0xc0e9007', link: '/en/0xc0e90007.md' },
+                { text: 'Error code: 4556/4557', link: '/en/4556.md' },
+                { text: 'Error status 0xc0e9007/0xc0e9008', link: '/en/0xc0e90007.md' },
                 { text: 'EMP.dll was not found', link: '/en/emp.dll.md' },
                 { text: 'UnityPlayer.dll was not found', link: '/en/unityplayer.dll.md' },
                 { text: 'uplay_r1_loader64.dll was not found', link: '/en/uplay_r1_loader64.dll.md' },
                 { text: 'MSVCR100/110/120/140.dll was not found', link: '/en/msvcr1xx.dll.md' },
                 { text: 'XINPUT1_3.dll was not found', link: '/en/xinput1_3.dll.md' },
+                { text: 'The EOS SDK could not be found. Please reinstall the application', link: '/en/eos-sdk.md' },
                 { text: 'The application was unable to start correctly (0xc0000906)', link: '/en/0xc0000906' },
                 { text: 'The application was unable to start correctly (0xc0000142)', link: '/en/0xc0000142' },
                 { text: 'The application has failed to start because its side-by-side configuration is incorrect', link: '/en/side-by-side' },
@@ -142,7 +144,7 @@ export default defineConfig({
         nav: [
           { text: 'Achievements', link: 'https://youtu.be/WJq7ZmaaGc8' },
           { text: 'Download sources', link: '/en/download-sources' },
-          { text: "Hydra's official Help Center", link: 'https://help.hydralauncher.gg/en/help' }
+          { text: "Hydra's official Help Center", link: 'https://hydra.workwonders.app/knowledge' }
         ],
 
         socialLinks: [
@@ -186,13 +188,14 @@ export default defineConfig({
                 { text: 'Failed to load OnlineFix64.dll from the list', link: '/ru/onlinefix64.dll.md' },
                 { text: 'Failed to load Custom.dll from the list', link: '/ru/custom.dll.md' },
                 { text: 'Failed to load xgameruntime.dll from the list', link: '/ru/xgameruntime.dll.md' },
-                { text: 'Error code: 4556', link: '/ru/4556.md' },
-                { text: 'Error status 0xc0e9007', link: '/ru/0xc0e90007.md' },
+                { text: 'Error code: 4556/4557', link: '/ru/4556.md' },
+                { text: 'Error status 0xc0e9007/0xc0e90008', link: '/ru/0xc0e90007.md' },
                 { text: 'EMP.dll was not found', link: '/ru/emp.dll.md' },
                 { text: 'UnityPlayer.dll was not found', link: '/ru/unityplayer.dll.md' },
                 { text: 'uplay_r1_loader64.dll was not found', link: '/ru/uplay_r1_loader64.dll.md' },
                 { text: 'MSVCR100/110/120/140.dll was not found', link: '/ru/msvcr1xx.dll.md' },
                 { text: 'XINPUT1_3.dll was not found', link: '/ru/xinput1_3.dll.md' },
+                { text: 'The EOS SDK could not be found. Please reinstall the application', link: '/ru/eos-sdk.md' },
                 { text: 'The application was unable to start correctly (0xc0000906)', link: '/ru/0xc0000906' },
                 { text: 'The application was unable to start correctly (0xc0000142)', link: '/ru/0xc0000142' },
                 { text: 'The application has failed to start because its side-by-side configuration is incorrect', link: '/ru/side-by-side' },
@@ -216,7 +219,7 @@ export default defineConfig({
         nav: [
           { text: 'Достижения', link: 'https://youtu.be/WJq7ZmaaGc8' },
           { text: 'Источники для скачивания', link: '/ru/download-sources' },
-          { text: "Hydra's official Help Center", link: 'https://help.hydralauncher.gg/en/help' }
+          { text: "Hydra's official Help Center", link: 'https://hydra.workwonders.app/knowledge' }
         ],
 
         socialLinks: [
