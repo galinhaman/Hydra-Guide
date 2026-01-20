@@ -52,15 +52,14 @@ Em relação a jogos maiores, com várias dublagens, as fontes podem suportar ou
 
 ## Online
 
-Opções de download do `Online-Fix` possuem um crack que possibilita o multiplayer online pela Steam, na grande maioria das vezes, e pela Epic Games/Xbox, em certos casos. 
+O `Online-Fix` possui uma correção na qual possibilita que você se conecte nos servidores da Steam, ou Epic Games/Xbox em certos casos, para utilizar os recursos online de algum jogo. Portanto, para que seja possível jogar online com alguma opção de download, ela precisa possuir o crack do `Online-Fix`.
 
-Opções de download do `Wkeynhk`, que possuírem `Pioneer` ou `Canek77` no título, também virão com um crack que disponibiliza multijogador, similar ao `Online-Fix`.
+### Lista de opções de download que suportam online:
+- Opções de download do `Online-Fix`;
+- Opções de download de outras fontes, quando possuírem `Coop`, `Multiplayer` ou `Online` no título;
+- Opções de download do `Wkeynhk`, quando possuírem `Pioneer` ou `Canek77` no título, também virão com um crack que disponibiliza multijogador, similar ao `Online-Fix`.
 
-Opções de download de outras fontes, que possuírem `Coop`, `Multiplayer` ou `Online` no título, virão com o crack do `Online-Fix` pré-aplicado, ou opcional, para que o online também seja possível.
-
-Caso não haja nenhuma opção de download que se enquadre nessas definições, significa que não há nenhum crack do `Online-Fix` disponível, para que o online seja possível.
-
-Algumas informações importantes sobre o online nessas opções de download:
+### Informações importantes sobre o online nessas opções de download:
 - É preciso que todos estejam na mesma versão do jogo, para que o online funcione;
 - Nos casos que o online funcione pela Steam (use o `Spacewar`), **somente** será possível jogar com pessoas que também estão jogando com o crack do `Online-Fix`. Nos casos onde o online funcione pela Epic Games/Xbox, é possível jogar com pessoas que possuem o jogo original;
 - Caso o jogo possua multiplayer via LAN (Rede local), é possível jogar com qualquer pessoa, em qualquer fonte (até mesmo o jogo original), sem depender do crack do `Online-Fix`. Basta todos se conectarem na mesma rede local, com algo como o [Radmin](https://www.radmin-vpn.com/), e jogarem via LAN;
@@ -70,7 +69,7 @@ Algumas informações importantes sobre o online nessas opções de download:
 
 `Torrent` é a forma mais comum de download dentre todas as fontes. Ele funciona no método peer to peer (p2p), sendo necessários seeds e peers para que os downloads funcionem. Por conta dessa dependência, sua velocidade tende a ser a mais inconsistente dentre todas as opções disponíves do Hydra. Entretanto, ainda sim é possível alcançar altas velocidades para jogos com uma alta quantidade de seeds e peers.
 
-`Gofile`/`Pixeldrain`/`Datanodes`/`Mediafire`/`Vikingfile`/`Buzzheavier`/`Fuckingfast` são hosters gratuitos que funcionam via download direto, downloads feitos diretamente em servidores, que não dependem de seeds e peers. Pelo fato de serem gratuitos, suas velocidades ainda sim podem não ser tão altas e consistentes. Dentre todos, `Gofile`, `Vikingfile` e `Buzzheavier` apresentam resultados melhores e mais consistentes.
+`Gofile`/`Pixeldrain`/`Datanodes`/`Mediafire`/`Vikingfile`/`Buzzheavier`/`Fuckingfast`/`Rootz` são hosters gratuitos que funcionam via download direto, downloads feitos diretamente em servidores, que não dependem de seeds e peers. Pelo fato de serem gratuitos, suas velocidades ainda sim podem não ser tão altas e consistentes. Dentre todos, `Gofile`, `Vikingfile` e `Buzzheavier` apresentam resultados melhores e mais consistentes.
 
 `Real-Debrid`/`Torbox` são serviços debrid, pagos, com sua utilidade em baixar jogos de maneira mais rápida e consistente. Dentre ambas as opções, `Real-Debrid` é a melhor, apesar de mais cara. Você pode conferir seus preços nos sites oficias do [Real-Debrid](https://real-debrid.com/) e [Torbox](https://torbox.app/)
 
