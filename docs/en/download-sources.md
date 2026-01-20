@@ -52,18 +52,22 @@ For bigger games, with multiple voiceovers, the sources may or may not support a
 
 ## Online
 
-`Online-Fix` includes a fix that allows you to connect to Steam servers, or Epic Games/Xbox servers in certain cases, to use the online features of a game. Therefore, to play online with a download option, it needs to have the `Online-Fix` crack.
+`Online-Fix` includes a fix that allows you to connect to Steam servers, or Epic Games/Xbox servers in certain cases, to use the online features of a game. 
+
+Therefore, to play online with a download option, it needs to have the `Online-Fix` crack.
 
 ### List of download options that support online play:
 - Download options from `Online-Fix`;
 - Download options from other sources, when they have `Coop`, `Multiplayer`, or `Online` in its title;
 - Download options from `Wkeynhk`, when they have `Pioneer` or `Canek77` in its title, will also come with a crack that enables multiplayer, similar to `Online-Fix`.
 
+::: tip If the game has LAN (Local Area Network) multiplayer, you can play with anyone, using any source (even the original game), without relying on the `Online-Fix` crack. Everyone can just connect to the same local network using some program like [Radmin](https://www.radmin-vpn.com/) and play via LAN;
+:::
+
 ### Important information about online on these download options:
-- Everyone must be on the same version of the game for online to work;
-- In cases where online works via Steam (using `Spacewar`), you can **only** play with people who are also playing with the `Online-Fix` crack. In cases where online works via Epic Games/Xbox, you can also play with people who own the original game;
-- If the game has LAN (Local Area Network) multiplayer, you can play with anyone, using any source (even the original game), without relying on the `Online-Fix` crack. Everyone can just connect to the same local network using some program like [Radmin](https://www.radmin-vpn.com/) and play via LAN;
-- If the game isn't updated, online play may not work properly.
+- If the game isn't updated, online play may not work properly;
+- Everyone must be on the same version of the game to be able to play together;
+- In cases where online works via Steam (using `Spacewar`), you can **only** play with people who are also playing with the `Online-Fix` crack. In cases where online works via Epic Games/Xbox, you can also play with people who own the original game.
 
 ## Downloaders
 
