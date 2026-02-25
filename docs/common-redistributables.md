@@ -4,9 +4,11 @@ Os componentes recomendados são uma série de dependências que os jogos e inst
 
 Aqui vai um guia para isso:
 
-## Navegue até a aba `Ajustes`:
+## Navegue até a aba `Ajustes` > `Compatibilidade`:
 
 ![Ajustes](assets/guides/ajustes.png)
+
+![Compatibilidade](assets/guides/compatibilidade.png)
 
 ## Clique em `Instalar`:
 

@@ -4,9 +4,11 @@ Common redistributables are a series of dependencies that games and installers c
 
 Here is a guide to do so:
 
-## Navigate to the `Settings` tab:
+## Navigate to the `Settings` > `Compatibility` tab:
 
 ![Settings](assets/guides/settings.png)
+
+![Compatibility](assets/guides/compatibility.png)
 
 ## Click on `Install`:
 
