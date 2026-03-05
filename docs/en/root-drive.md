@@ -1,4 +1,4 @@
-# How to move the game folder to the root of your disk
+# How to move the game folder to the root of your drive
 
 The `root` is the point where the file structure begins. It is the **highest possible level** folder, where all the files from a location are present **inside** it.
 

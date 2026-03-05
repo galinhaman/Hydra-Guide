@@ -29,7 +29,7 @@ Aqui vai um guia de como adicionar um jogo na Steam, e habilitar o `Steam Input`
 
 ![Selecionar jogo não Steam](assets/guides/jogo-não-steam-selecionado.png)
 
-::: tip Em jogos que possuem mais de um executável, como o The Last of Us Part I, selecione o executável responsável por manter o processo do jogo aberto.
+::: tip Em jogos que possuem mais de um executável, selecione apenas o executável responsável por manter o processo do jogo aberto.
 :::
 
 ## Adicione o jogo na Steam:
