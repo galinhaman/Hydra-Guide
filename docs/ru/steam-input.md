@@ -29,7 +29,7 @@ Here's a guide on how to add a game to Steam, and enable `Steam Input`:
 
 ![Select non-Steam game](assets/guides/selected-non-steam-game.png)
 
-::: tip In games that have more than one executable, such as The Last of Us Part I, select the executable responsible for keeping the game process open. 
+::: tip If there are more than one executable for a game, select the only the one that is responsible for keeping the game's process open.
 :::
 
 ## Add the game to Steam:
