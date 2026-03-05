@@ -1,6 +1,7 @@
 # Não é Possível Concluir o Assistente de Extração de Arquivo
 
 ![Primero erro ao extrair](assets/errors/extração-erro-1.png)
+
 ![Segundo erro ao extrair](assets/errors/extração-erro-2.png)
 
 O Windows não consegue extrair certos tipos de arquivos, como arquivos encriptados com alguma senha, por exemplo.

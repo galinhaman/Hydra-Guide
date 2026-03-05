@@ -1,6 +1,7 @@
 # ISDone.dll - An error occurred while unpacking! Unarc.dll returned an error code: -1/-12
 
 ![Unarc.dll error code: -1](assets/errors/unarc-1.png)
+
 ![Unarc.dll error code: -12](assets/errors/unarc-12.png)
 
 Estes erros podem ser causados por falta de uma versão do Visual C++ no seu computador. Portanto, instale os [componentes recomendados](common-redistributables.md).

@@ -1,6 +1,7 @@
 # Cannot Complete the Archive Extraction Wizard
 
 ![First error extracting](assets/errors/extraction-error-1.png)
+
 ![Second error extracting](assets/errors/extraction-error-2.png)
 
 Windows cannot extract certain types of archives, such as files encrypted with a password, for example.
