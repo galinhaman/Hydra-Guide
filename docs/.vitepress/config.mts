@@ -167,22 +167,22 @@ export default defineConfig({
         themeConfig: {
           sidebar: [
             {
-              text: 'Guides',
+              text: 'Руководства',
               collapsed: false,
               items: [
-                { text: 'Restoring files in Windows Defender', link: '/ru/restore-files' },
-                { text: 'Adding an exclusion in Windows Defender', link: '/ru/add-exclusion' },
-                { text: 'Disabling Smart App Control', link: '/ru/smart-app-control' },
-                { text: 'Applying the Fix-Repair', link: '/ru/fix-repair' },
-                { text: 'Enabling file extensions', link: '/ru/file-extensions' },
-                { text: 'Installing Microsoft Gaming Services', link: '/ru/microsoft-gaming-services' },
-                { text: 'Moving the game folder to the root of your drive', link: '/ru/root-drive' },
-                { text: 'Installing the common redistributables', link: '/ru/common-redistributables' },
-                { text: 'Adding a game to Steam and enabling Steam Input', link: '/ru/steam-input' }
+                { text: 'Восстановление файлов в Windows Defender', link: '/ru/restore-files' },
+                { text: 'Добавление исключения в Windows Defender', link: '/ru/add-exclusion' },
+                { text: 'Отключение Smart App Control', link: '/ru/smart-app-control' },
+                { text: 'Применение Fix-Repair', link: '/ru/fix-repair' },
+                { text: 'Включение отображения расширений файлов', link: '/ru/file-extensions' },
+                { text: 'Установка Игровых Сервисов Microsoft', link: '/ru/microsoft-gaming-services' },
+                { text: 'Перемещение папки с игрой в корень диска', link: '/ru/root-drive' },
+                { text: 'Установка Common redistributables', link: '/ru/common-redistributables' },
+                { text: 'Добавление игры в Steam и включение Steam Input', link: '/ru/steam-input' }
               ]
             },
             {
-              text: 'Errors',
+              text: 'Ошибки',
               collapsed: false,
               items: [
                 { text: 'Failed to load OnlineFix64.dll from the list', link: '/ru/onlinefix64.dll.md' },

@@ -1,53 +1,53 @@
-# How to add a game to Steam and enable Steam Input
+# Как добавить игру в Steam и включить Steam Input
 
-Steam has a compatibility layer for generic controls called `Steam Input`, which is capable of translating the controls' commands into something that the game can often recognize, if it doesn't already recognize them natively.
+Steam имеет слой совместимости для универсальных контроллеров под названием `Steam Input`. Он умеет преобразовывать команды контроллера в формат, который игра может распознать, если она не поддерживает контроллер напрямую.
 
-::: tip If you already have the game's executable selected in Hydra, you can add it to Steam by clicking `Manage` on your page > `Create Steam shortcut`:
+::: tip Если в Hydra у вас уже выбран исполняемый файл игры, вы можете добавить его в Steam, нажав `Настройки` на странице игры > `Создать ярлык Steam`:
 
 ![Create Steam shortcut](assets/guides/create-steam-shortcut.png)
 
-If you have Steam open, you need to exit it for the changes to be displayed.
+Если Steam открыт, его нужно закрыть, чтобы изменения отобразились.
 
 ![Close Steam](assets/guides/exit-steam.png)
 
-This way, it will be inside Steam with all its banners, icons and images already pre-applied. This is especially useful if you use a portable device, or use Steam's `Big Picture` mode.
+Таким образом игра появится в Steam со всеми баннерами, иконками и изображениями, уже применёнными. Это особенно удобно, если вы используете портативное устройство или режим `Big Picture`.
 
 ![Steam shortcut](assets/guides/steam-shortcut.png)
 :::
 
-Here's a guide on how to add a game to Steam, and enable `Steam Input`:
+Ниже инструкция, как добавить игру в Steam и включить `Steam Input`:
 
-## Click on `Add a Game` > `Add a non-Steam Game`:
+## Нажмите `Добавить игру` > `Добавить стороннюю игру`:
 
 ![Add non-Steam game](assets/guides/non-steam-game.png)
 
-## Click on `Browse`:
+## Нажмите `Поиск`:
 
 ![Explore](assets/guides/browse.png)
 
-## Select your game's executable:
+## Выберите исполняемый файл игры:
 
 ![Select non-Steam game](assets/guides/selected-non-steam-game.png)
 
-::: tip If there are more than one executable for a game, select the only the one that is responsible for keeping the game's process open.
+::: tip Если у игры несколько исполняемых файлов, выберите только тот, который отвечает за поддержание процесса игры активным.
 :::
 
-## Add the game to Steam:
+## Добавьте игру в Steam:
 
 ![Add non-Steam game](assets/guides/add-non-steam-game.png)
 
-Once that's done, your game will be on Steam, now you need to enable `Steam Input`.
+После этого игра появится в Steam. Теперь нужно включить `Steam Input`.
 
-## Right-click on it > `Properties`:
+## Щёлкните правой кнопкой мыши по игре > `Свойства`:
 
 ![Non-Steam game properties](assets/guides/properties-non-steam-game.png)
 
-## Navigate to the `Controller` tab > Enable `Steam Input`:
+## Перейдите на вкладку `Контроллер` > Выберите `Включить систему ввода Steam`:
 
 ![Enable Steam Input](assets/guides/enable-steam-input.png)
 
 ___
 
-With `Steam Input` enabled, run the game through Steam, that your controller may be recognized and will work normally.
+С включённым `Steam Input` запускайте игру через Steam — ваш контроллер будет распознаваться и работать корректно.
 
 ![Open non-Steam game](assets/guides/open-non-steam-game.png)

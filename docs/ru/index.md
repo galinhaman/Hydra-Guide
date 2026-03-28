@@ -23,13 +23,13 @@ hero:
 
 - [Как восстановить файлы в Windows Defender](restore-files.md)
 - [Как добавить папку/файл в исключения Windows Defender](add-exclusion.md)
-- [How to disable Smart App Controll](smart-app-control.md)
+- [Как отключить Smart App Controll](smart-app-control.md)
 - [Как применять папку Fix-Repair](fix-repair.md)
-- [How to enable file extensions in File Explorer](file-extensions.md)
+- [Как включить отображение расширений файлов в Проводнике](file-extensions.md)
 - [Как установить Игровые Сервисы Microsoft](microsoft-gaming-services.md)
-- [How to move the game folder to the root of your drive](root-drive.md)
-- [How to install the common redistributables](common-redistributables.md)
-- [How to add a game to Steam and enable Steam Input](steam-input.md)
+- [Как переместить папку с игрой в корень диска](root-drive.md)
+- [Как установить общие распространяемые компоненты (Common Redistributables)](common-redistributables.md)
+- [Как добавить игру в Steam и включить Steam Input](steam-input.md)
 
 ### Ошибки
 

@@ -1,13 +1,13 @@
-# How to move the game folder to the root of your drive
+# Как переместить папку с игрой в корень диска
 
-The `root` is the point where the file structure begins. It is the **highest possible level** folder, where all the files from a location are present **inside** it.
+`Корень` — это точка, с которой начинается файловая структура. Это папка **самого верхнего уровня** **внутри** которой находятся все файлы и папки данного расположения.
 
-The `drive` is your storage unit, it is represented by unique letters, such as `C:`, which is usually the drive where your Windows is installed.
+`Диск`— это ваше устройство хранения данных, обозначаемое буквой, например `C:`, где обычно установлена Windows.
 
-An example to represent what the `root` of your `drive` is:
+Пример, чтобы понять, что такое `корень` вашего `диска`:
 
 ```md
-C: <--- Root of your drive
+C: <--- Корень диска
 ├─ Program Files
 ├─ Program Files (x86)
 │ └─ DODI-Repacks
@@ -17,25 +17,25 @@ C: <--- Root of your drive
 ...
 ```
 
-Here's how to move your folder to the root of your drive:
+Вот как переместить папку в корень диска:
 
-::: info In this guide, `C:` will be used, but this guide applies to any other `drive` you may have. 
+::: info В данном руководстве будет использоваться диск `C:`, но эти инструкции применимы к любому другому `диску`,  который у вас есть. 
 :::
 
-## Locating your game folder
+## Поиск папки с игрой
 
-Navigate to your game folder, and click on the folder before it, so that you can move it:
+Перейдите к папке с игрой и нажмите на папку уровнем выше, чтобы можно было её переместить:
 
 ![Click on the previous folder](assets/guides/previous-folder.png)
 
 ![Game folder](assets/guides/folder-to-move.png)
 
-::: tip For `Online-Fix` games, it is interesting to move not only the game folder itself, but also the folder containing `Fix-Repair`, for organization purposes. 
+::: tip Для игр с `Online-Fix`, рекомендуется перемещать не только папку самой игры, но и папку, содержащую `Fix-Repair`, чтобы сохранить порядок. 
 :::
 
-## Move the folder to the root of your disk
+## Перемещение папки в корень диска
 
-Now, just click on the game folder, hold down the left mouse button, and move it to the `root` of your `C:` drive:
+Теперь просто нажмите на папку с игрой, зажмите левую кнопку мыши и перетащите её в `корень` вашего диска `C:`:
 
 ![Selected game folder](assets/guides/selected-folder.png)
 
@@ -43,4 +43,4 @@ Now, just click on the game folder, hold down the left mouse button, and move it
 
 ___
 
-After that, your game will be present in the `root` of your chosen `drive`.
+После этого ваша игра будет находиться в `корне` выбранного `диска`.

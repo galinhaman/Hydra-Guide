@@ -1,43 +1,43 @@
-# How to add an exclusion in Windows Defender
+# Как добавить исключение в Windows Defender
 
-An `exclusion` is a place where your antivirus will not scan any files.
+`Исключение` — это область, в которой ваш антивирус не будет сканировать файлы.
 
-In `Windows Defender`, you can add an exclusion for specific `Files`, `Folders`, `File Types` and `Processes`.
+В `Windows Defender` вы можете добавить исключение для определённых `Файлов`, `Папок`, `Типов Файлов` и `Процессов`.
 
-::: info Since in most situations your goal will be to prevent the antivirus from deleting any files from a specific game, an `exclusion` will be added for a `Folder`
-::: tip To avoid problems, it is recommended to create a dedicated folder for your games, and add an `exclusion` to it. This way, no game installed within that folder will have files deleted by your antivirus, compromising its operation. 
+::: info Поскольку в большинстве случаев ваша цель — предотвратить удаление антивирусом файлов конкретной игры `исключение` добавляется для `Папки`
+::: tip Чтобы избежать проблем, рекомендуется создать отдельную папку для игр и добавить её в `исключения`. Таким образом, ни одна игра, установленная в эту папку, не потеряет файлы из-за антивируса, и её работа не будет нарушена. 
 :::
 
-Follow these steps to add an `exclusion`:
+Следуйте этим шагам, чтобы добавить `исключение`:
 
-## Open the Start menu and search for `Virus & threat protection`:
+## Откройте пуск и введите в поиск `Защита от вирусов и угроз`:
 
 ![Virus & threat protection](/ru/assets/guides/virus-and-threat-protection.png)
 
-## Click on `Manage settings`:
+## Нажмите на `Управление настройками`:
 
 ![Manage settings](/ru/assets/guides/manage-settings.png)
 
-::: warning If you use another antivirus, the `Manage settings` option will not appear in this tab, but rather the antivirus that you have installed on your computer. In this case, you will need to open it and add an `exclusion` within it.
+::: warning Если вы используете другой антивирус, опция `Управление настройками` на этой вкладке отображаться не будет — вместо неё будет показан установленный на вашем компьютере антивирус. В таком случае вам нужно открыть его и добавить в нём `исключение`.
 
-This guide only covers `Windows Defender`, each antivirus has a different interface. 
+Эта инструкция, показывает метод восстановления файлов только через `Windows Defender`, каждый антивирус имеет разный интерфейс, поэтому мы не можем создать инструкцию под каждый из них. 
 :::
 
-## Scroll down and click on the `Add or remove exclusions` option:
+## Прокрутите вниз и нажмите на `Добавление или удаление исключений`:
 
 ![Exclusions](assets/guides/exclusions.png)
 
-## Click on the `Add an exclusion` > `Folder` button, and select the game folder:
+## Нажмите на `Добавить исключение` > `Папка`, и выберите папку с игрой:
 
 ![Add an exclusion](assets/guides/adding-exclusion.png)
 
 ![Folder to exclude](assets/guides/folder-to-exclude.png)
 
-::: tip In `Online-fix` games, it is recommended to add an `exclusion` for the first folder of the game, which holds both `Fix Repair` and the folder with the game files itself.
+::: tip Для игр с `Online-fix` рекомендуется добавить `исключение` для первой папки игры, в которой находятся и `Fix Repair`, и сама папка с файлами игры.
 :::
 
 ___
 
-After that, the folder will be excluded.
+После этого папка будет добавлена в исключения.
 
 ![Folder excluded](assets/guides/folder-excluded.png)

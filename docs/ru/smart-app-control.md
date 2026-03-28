@@ -1,23 +1,23 @@
-# How to disable `Smart App Controll`
+# Как отключить `Smart App Controll`
 
-`Smart App Controll` is an option of `Windows Defender` that blocks malicious files from executing on your system. However, it tends to flag crack files as mallicious. Therefore, sometimes you need to disable it to run a pirated game.
+`Smart App Controll` — это функция `Windows Defender`, которая блокирует запуск вредоносных файлов в системе. Однако она часто помечает кряки как вредоносные. Поэтому иногда её приходится отключать, чтобы запустить пиратскую игру.
 
-::: info Crack files are modified files to bypass the game's digital protection (DRM). Because of this, antiviruses can assign a generic virus identification to these files, even though they are not. This is called a `false positive`. 
+::: info Кряки — это модифицированные файлы для обхода защиты игры (DRM). Из-за этого, антивирусы могут посчитать эти файлы за вирус, хотя никакого вируса там нет. Это называется `Ложное Срабатывание`. 
 :::
 
-Here's a guide on how to disable it:
+Вот инструкция, как её отключить::
 
-## Open the Start menu and search for `App & browser control`:
+## Откройте меню «Пуск» и введите в поиск `Управление приложениями и браузером`:
 
 ![App & browser control](assets/guides/app-browser-control.png)
 
-## Click on `Smart App Control settings`:
+## Нажмите на `Параметры службы "Интеллектуальное управление приложениями"`:
 
 ![Smart App Control settings](assets/guides/smart-app-control-settings.png)
 
-## Click on `Off`:
+## Выберите `Выключить`:
 
 ![Exclusions](assets/guides/disabling-smart-app-control.png)
 
-::: info After turning this option off, you cannot turn it back on until you reinstall Windows. However, since this option does not provide any substancial advantage while being turned on, you can ignore this warning.
+::: info После отключения этой функции включить её обратно можно только после переустановки Windows. Однако, поскольку эта функция не даёт существенных преимуществ при включённом состоянии, это предупреждение можно игнорировать.
 :::

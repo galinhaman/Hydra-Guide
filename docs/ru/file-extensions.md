@@ -1,13 +1,13 @@
-# How to enable file extensions in File Explorer
+# Как включить отображение расширений файлов в Проводнике
 
-By default, the extensions of all Windows file types will not be enabled for display. Extensions of executable files `.exe`, configuration files `.ini` and batch files `.bat` will not be enabled, for example.
+По умолчанию в Windows расширения файлов не отображаются. Например, вы не увидите расширения исполняемых файлов `.exe`, конфигурационных файлов `.ini` или пакетных файлов `.bat`.
 
-::: info It is recommended that you enable file extensions, to avoid confusion with certain files present in game folders.
+::: info Рекомендуется включить отображение расширений файлов, чтобы избежать путаницы с файлами, находящимися в папках игр.
 :::
 
-The option you need to change is in `File Explorer`. Here is an image illustrating what to change in each Windows.
+Необходимая настройка находится в `Проводнике`. Ниже приведены изображения, показывающие, что нужно изменить в каждой версии Windows.
 
-::: tip You can quickly open `File Explorer` with the shortcut `Windows + E`
+::: tip Вы можете быстро открыть `Проводник` с помощью сочетания клавиш `Windows + E`
 :::
 
 ## Windows 11
