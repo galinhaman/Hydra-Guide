@@ -2,8 +2,8 @@
 
 ![online-fix.me](assets/errors/online-fix.me.png)
 
-This message is not an error message. It is just a message informing you that the game crack is from `Online-Fix`, and informing you that the only safe sites are `online-fix.me`, a site where online fixes and game files are distributed for free, and `cs.rin.ru`, a large russian piracy forum.
+Это сообщение не является ошибкой. Оно лишь информирует вас о том, что кряк игры взят у `Online-Fix`, а также указывает, что безопасными считаются только сайты `online-fix.me`(где бесплатно распространяются онлайн-фиксы и файлы игр) и `cs.rin.ru` (крупный российский форум по пиратству).
 
-The `online-fix.me` site will open in your browser to ensure that you know which site is correct, but you can simply close it.
+Сайт `online-fix.me` откроется в браузере, чтобы вы могли убедиться, что это правильный домен, но вы можете просто закрыть его.
 
-Just click `OK`, and wait for the game to open.
+Просто нажмите `OK` и дождитесь запуска игры.

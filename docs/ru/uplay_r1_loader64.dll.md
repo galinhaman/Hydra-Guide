@@ -1,7 +1,7 @@
-# The code execution cannot proceed because uplay_r1_loader64.dll was not found. Reinstalling the program may fix this problem.
+# Не удается продолжить выполнение кода, поскольку система не обнаружила uplay_r1_loader64.dll. Для устранения этой проблемы попробуйте переустановить программу. 
 
 ![uplay_r1_loader64.dll](assets/errors/uplay_r1_loader64.dll.png)
 
-The file `uplay_r1_loader64.dll` has been quarantined, you need to [restore it in Windows Defender](restore-files.md).
+Файл `uplay_r1_loader64.dll` был помещен в карантин вашим антивирусом, вам нужно [восстановить его в Windows Defender](restore-files.md).
 
-After restoring `uplay_r1_loader64.dll`, run the game again.
+После восстановления файла `uplay_r1_loader64.dll`, запустите игру снова.

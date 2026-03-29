@@ -1,7 +1,7 @@
-# The application has failed to start because its side-by-side configuration is incorrect. Please see the application event log or use the command-line sxstrace.exe tool for more detail.
+# Не удалось запустить приложение, поскольку его параллельная конфигурация неправильна. Дополнительные сведения содержатся в журнале событий приложений или используйте программу командной строки sxstrace.exe для получения дополнительных сведений.
 
 ![Side-by-side](assets/errors/side-by-side.png)
 
-This error appears when a version of Visual C++ is missing from your system. You need to [install the common redistributables](common-redistributables.md).
+Эта ошибка появляется, когда в системе отсутствует одна из версий Visual C++. Вам необходимо [установить common redistributables](common-redistributables.md).
 
-After that, run the game again.
+После этого запустите игру снова.

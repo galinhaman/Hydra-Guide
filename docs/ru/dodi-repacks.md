@@ -1,9 +1,9 @@
-# Installation screen stuck with a screenshot of the game and the text "Dodi Repacks"
+# Экран установки завис на изображении игры с надписью "Dodi Repacks"
 
 ![Dodi Repacks](assets/errors/dodi-repacks.png)
 
-This is the introductory screen for the DODI installers.
+Это стартовый экран установщиков от DODI.
 
-You need to select this window and press the up arrow on your keyboard to continue installing the game.
+Вам нужно выбрать это окно и нажать стрелку вверх на клавиатуре, чтобы продолжить установку игры.
 
-If you are using a keyboard that does not have the arrow keys, you can press the shortcut FN + W or use the Windows virtual keyboard.
+Если у вас клавиатура без стрелок, вы можете использовать сочетание FN + W или воспользоваться экранной клавиатурой Windows.

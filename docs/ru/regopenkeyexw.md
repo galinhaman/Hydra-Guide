@@ -2,8 +2,8 @@
 
 ![RegOpenKeyExW](assets/errors/regopenkeyexw.png)
 
-This error occurs in `Online-Fix` games, which require Steam to be open for multiplayer to work.
+Эта ошибка возникает в играх от `Online-Fix`, где для работы многопользовательского режима требуется открытый Steam.
 
-You need to open Steam, and log in to an account if you are not already logged in.
+Вам нужно запустить Steam и войти в аккаунт, если вы ещё не вошли.
 
-After that, open the game again.
+После этого запустите игру снова.

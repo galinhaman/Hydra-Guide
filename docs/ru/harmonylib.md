@@ -2,6 +2,6 @@
 
 ![HarmonyLib](assets/errors/harmonylib.png)
 
-This error means that some accent or special character is present in the game path. You need to [move the game folder to the root of your drive](root-drive.md).
+Эта ошибка означает, что в пути к игре присутствуют специальные символы или кириллица. Вам нужно [переместить папку с игрой в корень диска](root-drive.md).
 
-After that, run the game again.
+После этого запустите игру снова.

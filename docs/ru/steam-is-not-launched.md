@@ -2,25 +2,25 @@
 
 ![Steam](assets/errors/steam-is-not-launched.png)
 
-## Open Steam
+## Откройте Steam
 
-This error occurs in `Online-Fix` games, where Steam needs to be open for multiplayer to work.
+Эта ошибка возникает в играх от `Online-Fix`, где для работы многопользовательского режима требуется открытый Steam.
 
-You need to open Steam, and log in to an account if you are not already logged in.
+Вам нужно запустить Steam и войти в аккаунт, если вы ещё не вошли.
 
-With Steam open and logged in, open the game again.
+После входа в Steam откройте игру снова.
 
-If the error persists, follow these steps:
+Если ошибка сохраняется, выполните следующие шаги:
 
-## Exit Steam:
+## Закройте Steam:
 
 ![Close Steam](assets/errors/exit-steam.png)
 
-## Open Steam as an administrator:
+## Запустите Steam от имени администратора:
 
 ![Open Steam as an administrator](assets/errors/steam-administrator.png)
 
-## Add your game to Steam:
+## Добавьте игру в Steam:
 
 ![Add non-Steam game](assets/errors/non-steam-game.png)
 
@@ -30,6 +30,6 @@ If the error persists, follow these steps:
 
 ![Add](assets/errors/add-non-steam-game.png)
 
-## Open your game through Steam
+## Запустите игру через Steam
 
 ![Open game through Steam](assets/errors/open-non-steam-game.png)

@@ -2,6 +2,6 @@
 
 ![EOS SDK](assets/errors/eos-sdk.png)
 
-This error means that some file of the **crack** of the game was quarantined, you need to [restore it in Windows Defender](restore-files.md).
+Эта ошибка означает, что один из файлов **кряка** игры был помещён в карантин. Вам нужно [восстановить его в Windows Defender](restore-files.md).
 
-After restoring it, run the game again.
+После этого запустите игру снова.

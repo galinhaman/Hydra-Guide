@@ -1,10 +1,10 @@
-# The code execution cannot proceed because UnityPlayer.dll was not found. Reinstalling the program may fix this problem.
+# Не удается продолжить выполнение кода, поскольку система не обнаружила UnityPlayer.dll. Для устранения этой проблемы попробуйте переустановить программу.
 
 ![Unityplayer.dll](assets/errors/unityplayer.dll.png)
 
-The file `Unityplayer.dll` has been quarantined, you need to [restore it in Windows Defender](restore-files.md).
+Файл `Unityplayer.dll` был помещен в карантин вашим антивирусом, вам нужно [восстановить его в Windows Defender](restore-files.md).
 
-::: warning If there are no quarantined files, you need to [add an exclusion](add-exclusion.md) to the game folder, and then [apply Fix Repair](fix-repair.md).
+::: warning Если же в карантине нет этого файла, вам нужно [добавить папку с игрой в исключения антивируса](add-exclusion.md), а после [использовать папку Fix Repair](fix-repair.md).
 :::
 
-After that, run the game again.
+После этого запустите игру снова.

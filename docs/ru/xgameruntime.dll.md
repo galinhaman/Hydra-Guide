@@ -2,6 +2,6 @@
 
 ![Error xgameruntime.dll - 126](assets/errors/xgameruntime.dll-error-126.png)
 
-You need to install [Microsoft Gaming Services](microsoft-gaming-services.md).
+Вам нужно установить [Игровые Сервисы Microsoft](microsoft-gaming-services.md).
 
-After that, run the game again.
+После этого запустите игру снова.

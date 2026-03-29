@@ -1,11 +1,11 @@
-# Cannot Complete the Archive Extraction Wizard
+# Невозможно завершить извлечения архива
 
 ![First error extracting](assets/errors/extraction-error-1.png)
 
 ![Second error extracting](assets/errors/extraction-error-2.png)
 
-Windows cannot extract certain types of archives, such as files encrypted with a password, for example.
+Windows не может извлекать некоторые типы архивов, например защищённые паролем.
 
-## Use [WinRAR](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-711.exe) to extract the archive:
+## Используйте [WinRAR](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-711.exe) для распаковки архива:
 
 ![WinRAR](assets/errors/winrar.png)

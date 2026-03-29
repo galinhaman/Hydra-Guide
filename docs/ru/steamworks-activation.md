@@ -2,21 +2,21 @@
 
 ![Steamworks Fix Activation](assets/errors/steamworks-activation.png)
 
-This means that the Steamworks activation for the `Online-Fix` **crack** to work is not done, in this case, you need to do it manually.
+Это означает, что активация Steamworks, необходимая для работы **кряка** от `Online-Fix`, не выполнена. В этом случае её нужно сделать вручную.
 
-Follow these steps:
+Выполните следующие шаги:
 
-## Press Windows + R, and type `steam://install/480`:
+## Нажмите Windows + R и введите: `steam://install/480`:
 
 ![Spacewar Command](assets/errors/spacewar-command.png)
 
-## Install `Spacewar`:
+## Установите `Spacewar`:
 
 ![Spacewar](assets/errors/spacewar.png)
 
 ___
 
-After that, run the game again.
+После этого запустите игру снова.
 
-::: tip If you want, you can uninstall Spacewar after installing it. You just need to install it so that some folders necessary for the `Online-Fix` **crack** to work are created. 
+::: tip При желании вы можете удалить Spacewar после установки. Он нужен только для того, чтобы создать некоторые папки, необходимые для работы **кряка** от `Online-Fix`. 
 :::

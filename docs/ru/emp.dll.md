@@ -1,7 +1,7 @@
-# The code execution cannot proceed because EMP.dll was not found. Reinstalling the program may fix this problem.
+# Не удается продолжить выполнение кода, поскольку система не обнаружила EMP.dll. Для устранения этой проблемы попробуйте переустановить программу.
 
 ![EMP.dll](assets/errors/emp.dll.png)
 
-The file `EMP.dll` has been quarantined, you need to [restore it in Windows Defender](restore-files.md).
+Файл `EMP.dll` был помещен в карантин вашим антивирусом, вам нужно [восстановить его в Windows Defender](restore-files.md).
 
-After restoring `EMP.dll`, run the game again.
+После восстановления файла `EMP.dll`, запустите игру снова.

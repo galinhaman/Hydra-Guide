@@ -1,4 +1,4 @@
-# The code execution cannot proceed because MSVCR100/110/120/140.dll was not found. Reinstalling the program may fix this problem.
+# Не удается продолжить выполнение кода, поскольку система не обнаружила MSVCR100/110/120/140.dll. Для устранения этой проблемы попробуйте переустановить программу.
 
 ![MSVCR100.dll](assets/errors/msvcr100.dll.png)
 
@@ -8,6 +8,6 @@
 
 ![MSVCR140.dll](assets/errors/msvcr140.dll.png)
 
-This error appears when a version of Visual C++ is missing from your system. You need to [install the common redistributables](common-redistributables.md).
+Эта ошибка появляется, когда в системе отсутствует одна из версий Visual C++. Вам необходимо [установить common redistributables](common-redistributables.md).
 
-After that, run the game again.
+После этого запустите игру снова.
